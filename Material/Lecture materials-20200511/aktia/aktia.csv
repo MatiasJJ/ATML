@@ -1,0 +1,1344 @@
+rank,bib,name,club,time,race,seconds
+1,535,Saleva Eero,Helsingin Kisaveikot,31:57,1,1917
+2,537,Harjamäki Joonas,Viipurin Urheilijat,32:38,1,1958
+3,589,Kero Jukka,Turun Urheiluliitto,32:51,1,1971
+4,536,Heikkilä Niklas,Kuusankosken urheiluseura,33:07,1,1987
+5,44,Huusko Samuli,Kenttäurheilija-58,33:13,1,1993
+6,624,Hakala Juuso,Turun Urheiluliitto,33:15,1,1995
+7,19,Fishaye Samuel,Leppävaaran Sisu,33:16,1,1996
+8,166,Salo Jukka,Kenttäurheilija-58,33:20,1,2000
+9,519,Lappalainen Lauri,Team Wassu,33:45,1,2025
+10,550,Kumpula Jussi,Espoo,34:19,1,2059
+11,707,Saku Sami,IF Åland,34:27,1,2067
+12,585,Antikainen Pekka,Turun Toverit,34:28,1,2068
+13,52,Juuti Petri,Kenttäurheilija-58,34:32,1,2072
+14,586,Brunila Johannes,Bruno's Physique Club,34:45,1,2085
+15,608,Strömsholm Jani,Kenttäurheilijat-58,34:54,1,2094
+16,541,Heinaro Einari,Helsinkin Suunnistajat,34:58,1,2098
+17,582,Halme Tomi,Finnish Marathon Runners,35:08,1,2108
+18,272,Hakulinen Ossi,Helsinki Triathlon,35:16,1,2116
+19,584,Rissanen Simeon,Vantaan Salamat,35:17,1,2117
+20,697,Virta Jani,Neste United,35:27,1,2127
+21,595,Järvinen Mikko,Runner's club,35:30,1,2130
+22,175,Simpanen Juuso,Finnish Marathon Runners,35:37,1,2137
+23,737,Löppönen Juha,Helsingin Jyry,35:51,1,2151
+24,730,Talvensaari Mikko,Helsinki,35:51,1,2151
+25,560,Nikander Markus,Länsi-Uudenmaan Urheilijat,36:16,1,2176
+26,543,Partanen Jussi,Helsinki,36:17,1,2177
+27,720,Saloranta Timo,B12 - Powerwalking Group,36:21,1,2181
+28,714,Helander Iisak,Vantaa,36:25,1,2185
+29,283,Malm Mikko,Espoon Tapiot,36:32,1,2192
+30,602,Viitanen Lauri,Downtown 65,36:34,1,2194
+31,60,Karppinen Ville,,36:38,1,2198
+32,715,Mattila Ari,,36:47,1,2207
+33,297,Rönkkö Antti,Keravan Urheilijat,36:49,1,2209
+34,587,Törmälä Teemu,Diablos Rojos,36:54,1,2214
+35,109,Mäkelä Mikko,Downtown 65,36:58,1,2218
+36,508,Niemi Topias,Helsingin Suunnistajat,37:00,1,2220
+37,558,Lindberg Vesa,Downtown 65,37:00,1,2220
+38,534,Luts Arto,Akilles Ski Team,37:05,1,2225
+39,548,Keisteri Tuomas,Alppilan Samoojat,37:12,1,2232
+40,734,Välikorpi Jari,Ku-58,37:15,1,2235
+41,56,Jääskeläinen Timo,Runner's Club,37:16,1,2236
+42,55,Järvinen Arto,Pakilan Visa,37:31,1,2251
+43,107,Myllysilta Tuomas,Kenttäurheilija-58,37:32,1,2252
+44,540,Valtonen Luukas,Helsingin Suunnistajat,37:34,1,2254
+45,542,Storbacka Karin,IK Falken,37:35,1,2255
+46,562,Muinonen Sofia,Espoon Tapiot,37:44,1,2264
+47,181,Suominen Kari,Joken Talli,37:47,1,2267
+48,94,Leppänen Teemu,Cheetah Consulting,37:51,1,2271
+49,288,Moss Mischa,IF Sibbo-Vargarna,37:55,1,2275
+50,174,Shahar Tomer,SKC Racing Triathlon Club,37:57,1,2277
+51,583,Freij-Hollanti Ragnar,Runner's Club,38:03,1,2283
+52,90,Lehtonen Jaakko,Kenttäurheilija-58,38:05,1,2285
+53,563,Väisänen Janne,KU-58,38:06,1,2286
+54,168,Salomäki Jarno,Runner's Club,38:08,1,2288
+55,170,Savolainen Marko,Kenttäurheilija-58,38:09,1,2289
+56,27,Harju Olli,Kenttäurheilija-58,38:19,1,2299
+57,183,Taponen Niko,Vegaanijuoksijat,38:20,1,2300
+58,530,Vesikansa Jarkko,Helsinki Triathlon,38:21,1,2301
+59,625,Pyykkönen Jaakko,Espoo,38:36,1,2316
+60,619,Välimaa Alpo,Espoon Tapiot,38:39,1,2319
+61,269,Eklund Mikko,Aivan Raato,38:40,1,2320
+62,184,Tauriainen Pekka,Triathlon Vantaa,38:47,1,2327
+63,565,Ahdinkallio Jussi,Vantaa,38:51,1,2331
+64,528,Laitinen Markku,Helsinki,38:52,1,2332
+65,304,Uusitalo Jari,Porvoon Urheilijat,38:54,1,2334
+66,97,Manninen Antero,X-tri Lahti,38:54,1,2334
+67,153,Rautkoski Joosua,X-tri Lahti,38:55,1,2335
+67,121,Nupponen Tuomas,Kenttäurheilija-58,38:55,1,2335
+67,511,Hakala Emma,Espoon Tapiot,38:55,1,2335
+70,614,Jäppinen Mona,Helsingin Kisa-Veikot,38:55,1,2335
+71,622,Kero Andreina,Turun Urheiluliitto,38:56,1,2336
+72,145,Pihlajavesi Mikko,Kenttäurheilija-58,38:58,1,2338
+73,293,Puustelli Jouni,Hämeenkylän Mahti,39:03,1,2343
+74,171,Schellingerhout Remco,Beesports.nl runningteam,39:05,1,2345
+75,308,Vänttinen Jukka,HPV,39:05,1,2345
+76,30,Hava Juuso,Kenttäurheilija-58,39:11,1,2351
+77,713,Ellinger Christian,TCF,39:12,1,2352
+78,137,Pehkonen Markku,Helsinki,39:15,1,2355
+79,294,Rautiainen Tuukka,,39:19,1,2359
+80,18,Felber Rene,EY Running Club,39:23,1,2363
+81,298,Saavalainen Petri,Juoksija-lehti,39:27,1,2367
+82,709,Salo Jussi,Triathlon Suomi,39:30,1,2370
+83,604,Raatikainen Tapani,Hämeenlinnan Tarmo,39:32,1,2372
+84,564,Lappalainen Arto,Team Wassu,39:34,1,2374
+85,65,Keskitalo Jari,TriathlonSuomi,39:36,1,2376
+86,577,Vehi Lauri,X-Tri Lahti,39:37,1,2377
+87,164,Sallinen Mikko,Telia Runners Finland,39:40,1,2380
+88,86,Lampinen Ismo,,39:41,1,2381
+89,507,Lappi Timo,Finntriathlon Masters,39:45,1,2385
+90,747,Pasanen Jukka,HKV,39:48,1,2388
+91,567,Glännefors Max,Broby Skidot,39:52,1,2392
+92,205,Uuttu Satu,Kenttäurheilija-58,39:53,1,2393
+93,503,Stubb Aleksander,Finntriathlon,39:56,1,2396
+94,620,Danielsson Petter,,40:00,1,2400
+95,2,Ahokas Jukka,Kenttäurheilija-58,40:04,1,2404
+96,607,Widbom Herman,Espoo,40:08,1,2408
+97,143,Pietarinen Juhani,EY,40:21,1,2421
+98,31,Havia Jukka,,40:26,1,2426
+99,579,Huolman Ilpo,Helsingin Juoksijat,40:27,1,2427
+100,721,Nimmerfeldt Tõnis,Vantaa,40:28,1,2428
+101,191,Tolonen Veijo,Team Uphill Swimmers,40:28,1,2428
+102,621,Hannikainen Matti,,40:30,1,2430
+103,186,Teuri Tuomas,,40:30,1,2430
+104,502,Fransman Sam,SV-ski,40:32,1,2432
+105,600,Ekblom Tommy,Porvoon Urheilijat,40:32,1,2432
+106,207,Venesmaa Julia,Kenttäurheilija-58,40:32,1,2432
+107,505,Koskinen Panu,Hartolan Voima,40:35,1,2435
+108,41,Hillo Kari,Downtown 65 Endurance,40:35,1,2435
+109,273,Heikkilä Laura,Ice Power team,40:40,1,2440
+110,566,Järvelä Riku,Samba Trail Running Club,40:41,1,2441
+111,199,Tuuli Tuukka,Espoon palolaitoksen urheilija,40:43,1,2443
+112,575,Risku Ismo,Tuusula,40:43,1,2443
+113,147,Punkari Matti,Hypy-Triathlon,40:48,1,2448
+114,740,Anttonen Pentti,Helsingin Juoksijat,40:52,1,2452
+115,57,Kahilainen Marko,Kenttäurheilija-58,40:55,1,2455
+116,538,Vartiainen Mirja,Espoon Tapiot,40:56,1,2456
+117,38,Hellberg Jari,Kenttäurheilija-58,40:57,1,2457
+118,76,Kullberg Sanna,Kenttäurheilija-58,40:58,1,2458
+119,185,Tervo Jaakko,Jaskan Pauhajat,41:00,1,2460
+120,531,Mäntynen Elias,Vantaan Hiihtoseura,41:01,1,2461
+121,204,Uuspelto Vesa,TDC,41:02,1,2462
+122,746,Turpeinen Sampo,Helsinki Triathlon,41:02,1,2462
+123,555,Tennilä Matti,Rovaniemen Roadrunners,41:03,1,2463
+124,187,Tiisanoja Pasi,,41:05,1,2465
+125,514,Lindqvist Riku,HMAL,41:12,1,2472
+126,711,Santalahti Toni,Espoon Tapiot,41:14,1,2474
+127,547,Alén Heikki,Porv Urh,41:19,1,2479
+128,305,Vainikainen Vesa,Helsinki Triathlon,41:20,1,2480
+129,280,Loponen Tapio,Team Castia,41:22,1,2482
+130,113,Mäkinen Simo,Helsinki Running Crew,41:23,1,2483
+131,197,Tuovinen Katariina,Kenttäurheilija-58,41:25,1,2485
+132,132,Pakkanen Olli,Peräkylän Ponnistus,41:43,1,2503
+133,736,Ruokonen Timo,Helsinki Triathlon,41:45,1,2505
+134,59,Karppinen Tony,Vegaanijuoksijat / Helsinki Ru,41:47,1,2507
+135,125,Näsäkkälä Martti,Kenttäurheilija-58,41:47,1,2507
+136,100,Masalin Vesa-Matti,Porvoon Urheilijat,41:50,1,2510
+137,506,Laitila Erkki,VSVU,42:03,1,2523
+138,591,Teutari Jere,Pakila Poursuivants,42:05,1,2525
+139,201,Ustinov Timo,SKB Racing Triathlon Team,42:07,1,2527
+140,63,Keränen Ville,Team Electrofit,42:09,1,2529
+141,114,Mäkäräinen Leena,Kenttäurheilija-58,42:09,1,2529
+142,601,Lehtinen Petri,Runners Club,42:12,1,2532
+143,611,Rytkönen Jouko,Hki Spove,42:17,1,2537
+144,123,Nyman Christoffer,Tridiet Conquer,42:22,1,2542
+145,211,Viitanen Jarmo,Kenttäurheilija-58,42:25,1,2545
+146,698,Mattila Karol Mikael,Tammisalon Metsänkävijät,42:26,1,2546
+147,23,Haapaniemi Janne,Kieri Ry,42:28,1,2548
+148,275,Huttunen Susanna,X-tri Lahti,42:35,1,2555
+149,150,Pätäri Simo,Konian Ritarit,42:44,1,2564
+150,598,Rytkönen Hannu,Suunto Team,42:44,1,2564
+151,69,Koivuranta Lauri,Joken Talli,42:48,1,2568
+152,1,Ahdevainio Juha,Chateau de HöpöHöpö,42:54,1,2574
+153,200,Tyni Jani,Kestävyyttä pintakaasulla 24/7,42:54,1,2574
+154,85,Lammi Uki,OC Puisto,42:57,1,2577
+155,203,Uusitalo Ruut,,43:00,1,2580
+156,99,Martikainen Marko,Kenttäurheilija-58,43:00,1,2580
+157,742,Pekonen Jari,Porvoon Urheilijat,43:01,1,2581
+158,104,Mitronen Johannes,,43:04,1,2584
+158,722,Tapprest Jean-Francois,Helsinki,43:04,1,2584
+160,504,Suneli Satu,,43:10,1,2590
+161,74,Kulikoff Leo,,43:13,1,2593
+162,189,Toivonen Jussi,,43:15,1,2595
+163,615,Schroderus Taru,X-tri Lahti,43:19,1,2599
+164,10,Arokannas Elina,Kenttäurheilija-58,43:21,1,2601
+165,202,Uusimäki Taika,Kenttäurheilija-58,43:21,1,2601
+166,501,Aalto Martin,Helsinki,43:23,1,2603
+167,28,Hassinen Jukka-Pekka,Runner's Club,43:25,1,2605
+168,32,Heikkerö Peter,Porvoon Urheilijat,43:32,1,2612
+169,73,Kujo Katja,Kenttäurheilija-58,43:34,1,2614
+170,66,Keus Fred,Digia Finland,43:38,1,2618
+171,88,Laurell Panu,HSY,43:38,1,2618
+172,14,Elovaara Jonna,VSVU,43:39,1,2619
+173,39,Henttonen Anu,Helsinki,43:40,1,2620
+174,557,Heinonen Susanne,Kunnon Polte,43:41,1,2621
+175,612,Lehtosaari Kimmo,ARDF Finland,43:44,1,2624
+176,133,Palva Lauri,Kenttäurheilija-58,43:45,1,2625
+177,110,Mäkelä Nina,TriDiet Conquer,43:45,1,2625
+178,92,Lempiäinen Timo,,43:45,1,2625
+179,561,Aalto Josefina,Runner's Club,43:47,1,2627
+180,588,Kallioinen Katja,Xtri Lahti,43:47,1,2627
+181,176,Sipilä Aleksi,Helsinki Triathlon,43:47,1,2627
+182,93,Leppänen Mika,,43:48,1,2628
+183,111,Mäkelä Pekka,TriDiet Conquer,43:54,1,2634
+184,599,Mäkelä Jouko,Porvoo,44:09,1,2649
+185,148,Puolamäki Kai,Kenttäurheilija-58,44:10,1,2650
+186,533,Peitsoma Marko,Porvoon Urheilijat,44:11,1,2651
+187,193,Torkkeli Mari,Samba Trail Running Club,44:14,1,2654
+188,146,Pitkänen Anu,,44:22,1,2662
+189,278,Koskela Jari,Hyvinkään Pyöräilijät,44:24,1,2664
+190,527,Jääskeläinen Pekka,Järvenpään pyöräilijät,44:25,1,2665
+191,524,Eensalu Eero,Vantaa,44:27,1,2667
+192,593,Lindqvist Marcus,Helsinki Triathlon,44:31,1,2671
+193,179,Stenvall Anna-Liisa,Kenttäurheilija-58,44:32,1,2672
+194,101,Meronen Gunnar,Taksi-Kontula,44:38,1,2678
+195,729,Lassila Ilkka,Helsinki,44:38,1,2678
+196,748,Berg Nora,Helsinki,44:41,1,2681
+197,284,Martikainen Jussi,Herttoniemen Pyöräily ja Pesis,44:42,1,2682
+198,49,Jukarainen Jaakko,,44:47,1,2687
+199,36,Helevä Heikki,Pihkaniskat,44:49,1,2689
+200,122,Nurmi Janne,Downtown 65,44:51,1,2691
+201,513,Stenberg Ville,Sirdie,44:58,1,2698
+202,192,Tolppi Lasse,,45:01,1,2701
+203,580,Harmaala Ismo,Janakkalan Jana,45:04,1,2704
+204,594,Väkeväiinen Petteri,Rääkkylä,45:09,1,2709
+205,173,Seppänen Juha,Helsingin Jyry,45:13,1,2713
+206,509,Blomfelt Raoul,SKB Racing Triathlon Team,45:15,1,2715
+207,119,Nikkanen Vesa,Suomen Tervaleppä,45:19,1,2719
+208,6,Alanko Tero,Kenttäurheilija-58,45:19,1,2719
+209,106,Myllymäki Markus,Friskis & Svettis,45:22,1,2722
+210,725,Koskela Jarmo,www.runinfinland.fi,45:22,1,2722
+211,129,Ojanen Anu,Hämeenlinnan Tarmo,45:25,1,2725
+212,71,Korpela Sami,,45:25,1,2725
+213,206,Vallinoja Maija,Runner's Club,45:27,1,2727
+213,13,Ek Tanja,Porvoon Urheilijat,45:27,1,2727
+215,529,Aakula Riikka,Kauniainen,45:33,1,2733
+216,127,Oja Lea,Helsinki Triathlon,45:40,1,2740
+217,281,Makkonen Jarkko,Järvenpään pyöräilijät,45:41,1,2741
+218,33,Heikkilä Eero,Vantaa,45:45,1,2745
+219,67,Kilponen Tarja,Espoon Tapiot,45:45,1,2745
+220,696,Loukusa Päivi,Samba Trail Running,45:50,1,2750
+221,554,Taipale Virpi,Helsingin Juoksijat,45:50,1,2750
+222,301,Tainio Jasper,Helsingin Jyry,45:55,1,2755
+223,576,Airas Petro,Sporttiklubi,45:55,1,2755
+224,190,Tolonen Esko,,45:58,1,2758
+225,95,Lång Eino,Hyvinkään Seudun Urheilijat,46:02,1,2762
+226,716,Mattsson Markus,Downtown 65,46:03,1,2763
+227,139,Peltonen Sari,Kenttäurheilija-58,46:04,1,2764
+228,159,Röyskö Timo,Torsten Salaojaremontit,46:14,1,2774
+229,295,Roos Noora,,46:14,1,2774
+230,196,Tuominen Timo,,46:17,1,2777
+231,83,Lainema Tommi,Samba Trail Running Club,46:21,1,2781
+232,516,Kauppinen Jouni,Espoo,46:29,1,2789
+233,116,Niemi Joona,Downtown 65,46:41,1,2801
+234,3,Ahonen Jukka,,46:48,1,2808
+235,115,Mäntylä Jukka,,46:49,1,2809
+236,54,Jäppinen Pertti,Porvoon Urheilijat,46:57,1,2817
+237,745,Jaatinen Tapio,SK Vuoksi,46:59,1,2819
+238,194,Tuomi Timo-Jussi,Chateau de HöpöHöpö,47:00,1,2820
+239,120,Nordling Sirpa,Porvoon Urheilijat,47:06,1,2826
+240,532,Borenius Seppo,Helsinki,47:06,1,2826
+241,718,Äikäs Marko,Helsingin Kisaveikot,47:25,1,2845
+242,724,Haapasaari Pekka,Helsinki Trialthon,47:29,1,2849
+243,87,Lassila Sanna,Digia Finland,47:34,1,2854
+244,750,Suominen Jani,KU-58,47:35,1,2855
+245,307,Virtanen Jari,Kenttäurheilijat -58,47:41,1,2861
+246,522,Borgman Cecilia,IF Sibbo Vargarna,47:46,1,2866
+247,79,Kytömäki Pekka,Endurance Ultrarunning Team Fi,47:52,1,2872
+248,156,Rosenback Tom,KPK 24/7,47:53,1,2873
+249,606,Solastie Jussi,Helsinki,47:53,1,2873
+250,45,Hyyryläinen Pasi,,47:54,1,2874
+251,727,Vesterinen Timo,Vantaa,48:00,1,2880
+252,160,Saari Jyrki,,48:01,1,2881
+253,22,Gottmann Igor,HSY,48:06,1,2886
+254,98,Markkanen Jukka,Downtown 65,48:07,1,2887
+255,733,Kulikoff Mikael,Helsinki,48:08,1,2888
+256,539,Taiminen Pia,Triathlon Vantaa,48:10,1,2890
+257,29,Hautala Anne,,48:19,1,2899
+258,744,Riska Magnus,Helsinki Triathlon,48:20,1,2900
+259,597,Åvall Michaela,Diablos Rohos,48:24,1,2904
+260,609,Helenius Riina,,48:27,1,2907
+261,16,Enqvist Joonas,HSY,48:38,1,2918
+262,8,Anttalainen Jukka,Helsingin Jyry,48:42,1,2922
+263,50,Jukko Sara,Ikaalisten urheilijat,48:44,1,2924
+264,51,Jurmu Jouni,IF Sibbo Vargarna,48:59,1,2939
+265,735,Pärnänen Tuomas,Helsinki,49:04,1,2944
+266,739,Kilpeläinen Riitta,Järvenpään pyöräilijät,49:04,1,2944
+267,5,Ala-Koukkari Mika,Friskis & Svettis,49:15,1,2955
+268,277,Jokela Virpi,,49:27,1,2967
+269,526,Helkelä Merja,Rauma,49:28,1,2968
+270,188,Tikanmäki Antti,Digia Finland,49:32,1,2972
+271,523,Rask Riikka,Helsinki Triathlon,49:38,1,2978
+272,546,Telsavaara Timo,,49:38,1,2978
+273,300,Suckman Petteri,Endurance Ultrarunning Team Fi,49:41,1,2981
+274,617,Kuikka Noora,,49:44,1,2984
+275,215,Vuorinen Markus,,49:47,1,2987
+276,48,Isoherranen Harri,,49:52,1,2992
+277,124,Nyman Maija,,49:53,1,2993
+278,279,Laaksonen Jarno,Friskis & Svettis,50:01,1,3001
+279,210,Widbom Kalle,Helsinki Triathlon,50:05,1,3005
+280,290,Oikarinen Tuomo J,,50:09,1,3009
+281,521,Heikkinen Olli,ARDF Finland,50:15,1,3015
+282,40,Hepo-Oja Nuppu,HSY / Triathlon Vantaa,50:17,1,3017
+283,306,Vanninen Lissu,Triathlon Vantaa,50:32,1,3032
+284,37,Heliö Miia,,50:34,1,3034
+285,285,Miettinen Michael,,50:36,1,3036
+286,525,Harju Matti,Porvoon Urheilijat,50:38,1,3038
+287,126,Oinonen Juha,CSC,50:41,1,3041
+288,271,Glynn Darren,Gladius Kirkkonummi,50:43,1,3043
+289,161,Saari Taina,,50:45,1,3045
+290,102,Mieho Hilkka-Liisa,Helsingin Juoksijat,50:47,1,3047
+291,613,Juopperi Markku,SpoVe,50:51,1,3051
+292,214,Vuorilehto Veli-Pekka,HSY,50:59,1,3059
+293,728,Åkerman Milla,PU,51:02,1,3062
+294,719,Muthugalage Irma,Vantaa,51:08,1,3068
+295,138,Pehkonen Susanna,,51:11,1,3071
+296,743,Lakio Laura,Samba Trail Running Club,51:28,1,3088
+297,151,Rask Kari,Kenttäurheilija-58,51:35,1,3095
+298,559,Lounasheimo Antton,,51:35,1,3095
+299,605,Ignatius Antero,Endurance,51:39,1,3099
+300,212,Viljakainen Inca,Länsi-Uudenmaan urheilijat,51:40,1,3100
+301,732,Kulikoff Laura,Helsinki,51:44,1,3104
+302,545,Keskinen Eero,Jyväskylä,51:51,1,3111
+303,96,Långsjö Camilla,TriathlonSuomi,51:55,1,3115
+304,549,Heiliö Timo,Kotka,52:09,1,3129
+305,303,Tiukkanen Jarmo,,52:12,1,3132
+306,42,Hiltunen Jouko,Karhulan Katajaiset,52:16,1,3136
+307,518,Leino Sara,Helsingin Jyry,52:19,1,3139
+308,717,Järvenpää Minna,HSY,52:25,1,3145
+309,172,Sederlöf Kristoffer,CSC,52:28,1,3148
+310,302,Tirkkonen Mari,TriathlonSuomi,52:32,1,3152
+311,289,Nurmi Tiina,Sikakorven Sisu,52:34,1,3154
+312,553,Itkonen Erkki,Hämeenlinnan Tarmo,52:39,1,3159
+313,596,Keskinen Noora,Vantaa,52:55,1,3175
+314,78,Kyllönen Janne,Kenttäurheilija-58,53:12,1,3192
+315,165,Salmi Sirpa,,53:13,1,3193
+316,551,Nikulainen Arto,Spove,53:22,1,3202
+317,738,Palmu Mika,Vantaa,53:23,1,3203
+318,276,Huttunen Margit,,53:28,1,3208
+319,510,Leskinen Elina,,53:31,1,3211
+320,726,Lehtovaara Marianne,Helsinki,53:36,1,3216
+321,84,Laitinen Kalevi,,53:39,1,3219
+322,274,Hietalahti Mikko,,53:41,1,3221
+323,24,Habets Marc,,54:03,1,3243
+324,610,Majamaa Wisa,Pakila Poursuivants,54:09,1,3249
+325,248,Perttula Ella,Kenttäurheilija-58,54:15,1,3255
+326,270,Elo-Korpisaari Niina,,54:19,1,3259
+327,556,Harjanne Heidi,Triathlon Suomi,54:26,1,3266
+328,286,Miettinen Tiina,,54:27,1,3267
+329,141,Perttula Petri,Kenttäurheilija-58,54:39,1,3279
+330,603,Teileri Taina,Triathlon Suomi,54:49,1,3289
+331,61,Kaukiainen Maarit,Porvoon Urheilijat,55:15,1,3315
+332,292,Palvas Leena,,55:16,1,3316
+333,544,Ahokas Kati,Vegaanijuoksijat,55:17,1,3317
+334,144,Piha Tanja,Run for Good,55:20,1,3320
+335,34,Heino Jari,Hypy-Triathlon,55:45,1,3345
+336,162,Saari Tuula,Sykkeen Kaikuja Hyvinkään sair,55:47,1,3347
+337,282,Makkonen Minna,Järvenpään pyöräilijät,55:57,1,3357
+338,103,Miettinen Jari,CSC,56:03,1,3363
+339,266,Andreev Katja,Vantaa,56:09,1,3369
+340,198,Turunen Visa,Spove ry.,56:18,1,3378
+341,9,Anttonen Veli-Pekka,Suomen Tervaleppä,56:23,1,3383
+342,517,Loikkanen Mikko,Friskis & Svettis,56:26,1,3386
+343,152,Rasku Jukka,Espoo,56:52,1,3412
+344,723,Lehtonen Susanne,LIK,57:58,1,3478
+345,515,Ekblom Jan,HELTRI,58:35,1,3515
+346,552,Lemström Tage,IP-08,58:46,1,3526
+347,142,Perttula Pia,Kenttäurheilija-58,59:49,1,3589
+348,623,Tiihonen Vesa,ISOMUS,1:00:14,1,3614
+349,592,Särkkä Auni,Espoon Tapiot,1:02:41,1,3761
+350,112,Mäkinen Olli,,1:03:50,1,3830
+351,741,Sipilä Arja,Vantaa,1:04:10,1,3850
+352,140,Perttula Paula,Kenttäurheilija-58,1:04:18,1,3858
+353,296,Roots Anto,ESTri / LeSi,1:05:40,1,3940
+354,520,Turunen Anni,Helsinki,1:05:47,1,3947
+355,7,Alasalmi Teija,Digia Finland,1:11:02,1,4262
+356,68,Kirvesmäki Ari,Kenttäurheilija-58,1:11:30,1,4290
+357,169,Sarkkinen Maarit,Kenttäurheilija-58,1:12:38,1,4358
+1,735,Granberg Hannu,Lahden Ahkera,31:17,2,1877
+2,745,Valido Toni,Hoka One One / Runners Club,32:07,2,1927
+3,19,Fishaye Samuel,Leppävaaran Sisu,33:56,2,2036
+4,539,Kumpula Jussi,Espoo,34:08,2,2048
+5,532,Lehtinen Joonas,Turun Urheiluliitto,34:15,2,2055
+6,705,Strömsholm Jani,Sibbo Vargarna,34:23,2,2063
+7,614,Hapola Tuomas,Savitaipaleen Urheilijat,34:36,2,2076
+8,17,Eskelinen Jaakko,Helsinki,34:40,2,2080
+9,272,Hakulinen Ossi,Helsinki Triathlon,34:57,2,2097
+10,355,Tuominen Elias,Naantalin löyly,35:23,2,2123
+11,332,Rissanen Simeon,Vantaan Salamat,35:24,2,2124
+12,568,Nikula Timo,Runner's Club,35:35,2,2135
+13,322,Harjamäki Joonas,Viipurin Urheilijat,35:44,2,2144
+14,538,Niemi Topias,Helsingin Suunnistajat,35:46,2,2146
+15,175,Simpanen Juuso,Finnish Marathon Runners,35:47,2,2147
+16,711,Jokela Eetu,Helsingin Jyry,35:53,2,2153
+17,60,Karppinen Ville,,35:54,2,2154
+18,718,Rintala Tuukka,Runner´s High,35:56,2,2156
+19,555,Törmälä Teemu,Diablos Rojos,35:58,2,2158
+20,721,Helander Iisak,Vantaa,35:59,2,2159
+21,706,Viitanen Lauri,Downtown 65,36:01,2,2161
+22,746,Haverinen Sami,Runner's Club,36:04,2,2164
+23,26,Halme Tomi,Finnish Marathon Runners,36:22,2,2182
+24,291,Ovaska Eetu,Triathlon Vantaa,36:28,2,2188
+25,344,Välikorpi Jari,Kenttäurheilijat-58,36:29,2,2189
+26,30,Hava Juuso,Kenttäurheilija-58,37:07,2,2227
+27,56,Jääskeläinen Timo,Runner's Club,37:11,2,2231
+28,609,Mikkola Tomi,Hki,37:22,2,2242
+29,297,Rönkkö Antti,Keravan Urheilijat,37:22,2,2242
+30,107,Myllysilta Tuomas,Kenttäurheilija-58,37:29,2,2249
+31,94,Leppänen Teemu,Cheetah Consulting,37:32,2,2252
+32,540,Mannonen Ville,Helsingin Suunnistajat,37:37,2,2257
+33,613,Lippojoki Kai,Vantaa,37:40,2,2260
+34,325,Väisänen Janne,KU-58,37:44,2,2264
+35,704,Muinonen Sofia,Espoon Tapiot,37:46,2,2266
+36,508,Planting Teemu,KU-58,37:50,2,2270
+37,288,Moss Mischa,IF Sibbo-Vargarna,38:03,2,2283
+38,505,Pyykönen Jaakko,Espoo,38:07,2,2287
+39,181,Suominen Kari,Joken Talli,38:11,2,2291
+40,740,Sjölind-Kohtamäki Josefin,Helsinki,38:13,2,2293
+41,699,Mäkelä Tomi,Pihkaniskat,38:17,2,2297
+42,520,Naatula Sami,Vantaa,38:18,2,2298
+43,731,Kinnunen Aapo,Hki,38:18,2,2298
+44,293,Puustelli Jouni,Hämeenkylän Mahti,38:23,2,2303
+45,86,Lampinen Ismo,,38:29,2,2309
+46,27,Harju Olli,Kenttäurheilija-58,38:31,2,2311
+47,184,Tauriainen Pekka,Triathlon Vantaa,38:37,2,2317
+48,709,Widbom Herman,Espoo,38:38,2,2318
+49,109,Mäkelä Mikko,Downtown 65,38:40,2,2320
+50,145,Pihlajavesi Mikko,Kenttäurheilija-58,38:43,2,2323
+51,4,Aittola Antti,,38:44,2,2324
+52,620,Virtanen Kari,Hämeenlinnan Tarmo,38:46,2,2326
+53,171,Schellingerhout Remco,Beesports.nl runningteam,38:50,2,2330
+54,70,Komulainen Aatu,Kenttäurheilija-58,38:52,2,2332
+55,2,Ahokas Jukka,Kenttäurheilija-58,38:55,2,2335
+56,121,Nupponen Tuomas,Kenttäurheilija-58,38:55,2,2335
+57,514,Raatikainen Tapani,Hämeenlinnan Tarmo,38:56,2,2336
+58,164,Sallinen Mikko,Telia Runners Finland,38:57,2,2337
+59,18,Felber Rene,EY Running Club,38:59,2,2339
+60,708,Jumisko Juha,Samba trail running club,39:04,2,2344
+61,586,Hakala Emma,Espoon Tapiot,39:05,2,2345
+62,170,Savolainen Marko,Kenttäurheilija-58,39:10,2,2350
+63,205,Uuttu Satu,Kenttäurheilija-58,39:15,2,2355
+64,267,Borremans Erwin,Hyvinkää triathlon,39:15,2,2355
+65,610,Mikkola Juhana,Vantaa,39:39,2,2379
+66,65,Keskitalo Jari,TriathlonSuomi,39:42,2,2382
+67,185,Tervo Jaakko,Jaskan Pauhajat,39:54,2,2394
+68,53,Juuti Sari,Kenttäurheilija-58,39:55,2,2395
+69,515,Anttonen Pentti,Helsingin Juoksijat,40:10,2,2410
+70,624,Sainio Joonas,Helsinki,40:11,2,2411
+71,545,Heinaro Lauri,Espoon Suunto,40:11,2,2411
+72,199,Tuuli Tuukka,Espoon palolaitoksen urheilija,40:11,2,2411
+73,147,Punkari Matti,Hypy-Triathlon,40:12,2,2412
+74,597,Lensu Vesa,Pakilan Visa,40:16,2,2416
+75,608,Papinsaari Heini,Kangasala SK,40:17,2,2417
+76,529,Pasanen Antti,Espoo,40:22,2,2422
+77,743,Hämäläinen Eero,Hämeenlinnan Tarmo,40:25,2,2425
+78,187,Tiisanoja Pasi,,40:33,2,2433
+79,330,Risku Ismo,Tuusula,40:34,2,2434
+80,130,Orispää Markku,Esbo IF,40:35,2,2435
+81,546,Kainulainen Heikki,Vantaa,40:35,2,2435
+82,354,Laukkanen Mikko,Finnish Marathon Runners,40:36,2,2436
+83,114,Mäkäräinen Leena,Kenttäurheilija-58,40:37,2,2437
+84,191,Tolonen Veijo,Team Uphill Swimmers,40:37,2,2437
+85,41,Hillo Kari,Downtown 65 Endurance,40:38,2,2438
+86,76,Kullberg Sanna,Kenttäurheilija-58,40:45,2,2445
+87,195,Tuominen Mika,Esbo IF,40:46,2,2446
+88,113,Mäkinen Simo,Helsinki Running Crew,41:04,2,2464
+89,168,Salomäki Jarno,Runner's Club,41:06,2,2466
+90,337,Santalahti Toni,Espoon Tapiot,41:10,2,2470
+91,600,Puhakka Matti,Espoo,41:11,2,2471
+92,525,Nyholm Teemu,Keskiuudenmaan Yleisurheilu,41:21,2,2481
+93,335,Välimaa Alpo,Espoon Tapiot,41:30,2,2490
+94,64,Keskikukko Marko,,41:32,2,2492
+95,739,Maisi Antti,Nurmijärvi,41:34,2,2494
+96,280,Loponen Tapio,Team Castia,41:35,2,2495
+97,57,Kahilainen Marko,Kenttäurheilija-58,41:37,2,2497
+98,150,Pätäri Simo,Konian Ritarit,41:41,2,2501
+99,38,Hellberg Jari,Kenttäurheilija-58,41:45,2,2505
+100,201,Ustinov Timo,SKB Racing Triathlon Team,41:51,2,2511
+101,132,Pakkanen Olli,Peräkylän Ponnistus,41:59,2,2519
+102,573,Lehtinen Petri,Runners Club,41:59,2,2519
+103,305,Vainikainen Vesa,Helsinki Triathlon,42:05,2,2525
+104,605,Pekonen Jari,Porvoon Urheilijat,42:09,2,2529
+105,353,Peltonen Janne,Kenttäurheilijat-58,42:12,2,2532
+106,1,Ahdevainio Juha,Chateau de HöpöHöpö,42:12,2,2532
+107,85,Lammi Uki,OC Puisto,42:16,2,2536
+108,99,Martikainen Marko,Kenttäurheilija-58,42:18,2,2538
+109,551,Rantanen Johanna,Helsinki,42:21,2,2541
+110,544,Nybacka Mikko,Tavastia Trail Club,42:25,2,2545
+111,59,Karppinen Tony,Vegaanijuoksijat / Helsinki Ru,42:26,2,2546
+112,284,Martikainen Jussi,Herttoniemen Pyöräily ja Pesis,42:29,2,2549
+113,204,Uuspelto Vesa,TDC,42:29,2,2549
+114,137,Pehkonen Markku,Helsinki,42:35,2,2555
+115,748,Heinonen Susanne,Kunnon Polte,42:36,2,2556
+116,66,Keus Fred,Digia Finland,42:38,2,2558
+117,28,Hassinen Jukka-Pekka,Runner's Club,42:47,2,2567
+117,519,Peitsoma Marko,Porvoon Urheilijat,42:47,2,2567
+119,92,Lempiäinen Timo,,42:48,2,2568
+120,507,Blomqvist Janne,Suomen Kustavin sauna&hiihtose,42:48,2,2568
+121,125,Näsäkkälä Martti,Kenttäurheilija-58,42:50,2,2570
+122,579,Kontro Valto,Suomen Tervaleppä Oy,42:51,2,2571
+123,203,Uusitalo Ruut,,42:52,2,2572
+124,531,Rytkönen Hannu,Suunto Team,42:54,2,2574
+125,32,Heikkerö Peter,Porvoon Urheilijat,42:55,2,2575
+126,49,Jukarainen Jaakko,,42:56,2,2576
+127,506,Kanerva Pekka,Espoon Tapiot,42:57,2,2577
+128,736,Tallqvist Niklas,Helsinki,43:00,2,2580
+129,211,Viitanen Jarmo,Kenttäurheilija-58,43:01,2,2581
+130,566,Uro Jukka,Vantaa,43:02,2,2582
+131,36,Helevä Heikki,Pihkaniskat,43:06,2,2586
+132,73,Kujo Katja,Kenttäurheilija-58,43:09,2,2589
+133,69,Koivuranta Lauri,Joken Talli,43:14,2,2594
+134,133,Palva Lauri,Kenttäurheilija-58,43:15,2,2595
+135,189,Toivonen Jussi,,43:17,2,2597
+136,200,Tyni Jani,Kestävyyttä pintakaasulla 24/7,43:23,2,2603
+137,596,Tapprest Jean-Francois,Helsinki,43:26,2,2606
+138,146,Pitkänen Anu,,43:30,2,2610
+139,110,Mäkelä Nina,TriDiet Conquer,43:39,2,2619
+140,176,Sipilä Aleksi,Helsinki Triathlon,43:47,2,2627
+141,594,Rättyä Riitta,Nurmijärven YU,43:50,2,2630
+142,557,Raninen Petri,Espoo,43:50,2,2630
+143,58,Kapanen Tero,Klaukkalan hikipinkojat,43:53,2,2633
+144,593,Munukka Ellu,Helsinki,44:01,2,2641
+145,750,Karvonen Harri,Reckless Race,44:03,2,2643
+146,122,Nurmi Janne,Downtown 65,44:05,2,2645
+147,702,Kohtamäki Jari,New Balance,44:09,2,2649
+148,14,Elovaara Jonna,VSVU,44:10,2,2650
+149,333,Mäkelä Jouko,Porvoo,44:12,2,2652
+150,159,Röyskö Timo,Torsten Salaojaremontit,44:16,2,2656
+151,725,Nystedt Roger,Esbo IF,44:19,2,2659
+152,275,Huttunen Susanna,X-tri Lahti,44:21,2,2661
+153,572,Kallioinen Katja,Xtri Lahti,44:24,2,2664
+154,13,Ek Tanja,Porvoon Urheilijat,44:26,2,2666
+155,548,Latvala Matti,Helsinki,44:35,2,2675
+156,192,Tolppi Lasse,,44:40,2,2680
+157,527,Korhonen Jaana,Nurmijärven Yleisurheilijat,44:40,2,2680
+158,111,Mäkelä Pekka,TriDiet Conquer,44:42,2,2682
+159,193,Torkkeli Mari,Samba Trail Running Club,44:43,2,2683
+160,359,Jantunen Juha,Hyvinkään Pyöräilijät,44:44,2,2684
+161,511,Himanka Jarmo,Finntriathlon Masters,44:45,2,2685
+162,119,Nikkanen Vesa,Suomen Tervaleppä,44:52,2,2692
+163,301,Tainio Jasper,Helsingin Jyry,44:52,2,2692
+164,72,Kujala Jarkko,Kenttäurheilija-58,44:54,2,2694
+165,206,Vallinoja Maija,Runner's Club,44:54,2,2694
+166,528,Simons Magnus,Espoo,44:55,2,2695
+167,93,Leppänen Mika,,44:55,2,2695
+168,742,Nurmi Seija,Kerkkoon Urheilijat,44:56,2,2696
+169,562,Haapasaari Pekka,Helsinki Trialthon,44:57,2,2697
+170,591,Kanerva Mari,Espoon Tapiot,45:00,2,2700
+171,196,Tuominen Timo,,45:01,2,2701
+172,701,Kiianen Atte,Helsinki,45:09,2,2709
+173,357,Valtanen Kimmo,,45:09,2,2709
+174,504,Aakkula Riikka,Kauniainen,45:21,2,2721
+175,129,Ojanen Anu,Hämeenlinnan Tarmo,45:24,2,2724
+176,703,Sundén Jon,Helsinki,45:28,2,2728
+177,190,Tolonen Esko,,45:29,2,2729
+177,6,Alanko Tero,Kenttäurheilija-58,45:29,2,2729
+179,95,Lång Eino,Hyvinkään Seudun Urheilijat,45:38,2,2738
+180,101,Meronen Gunnar,Taksi-Kontula,45:39,2,2739
+181,588,Hildén Topias,Helsinki,45:44,2,2744
+182,581,Martikainen Atte,Hki,45:47,2,2747
+183,139,Peltonen Sari,Kenttäurheilija-58,45:48,2,2748
+184,710,Hyvärinen Petri,Reckless Race,45:49,2,2749
+185,54,Jäppinen Pertti,Porvoon Urheilijat,45:57,2,2757
+186,744,Mattila Katja,Porvoo,46:01,2,2761
+187,3,Ahonen Jukka,,46:03,2,2763
+188,116,Niemi Joona,Downtown 65,46:06,2,2766
+189,173,Seppänen Juha,Helsingin Jyry,46:07,2,2767
+190,582,Holopainen Timo,Espoo,46:10,2,2770
+191,564,Niklander Niko,Downtown 65,46:11,2,2771
+192,732,Aaltonen Toni,Downtown 65,46:14,2,2774
+193,560,Kauppinen Jouni,Espoo,46:30,2,2790
+194,33,Heikkilä Eero,Vantaa,46:36,2,2796
+195,208,Westerberg Julius,Länsi-Uudenmaan urheilijat,46:41,2,2801
+196,603,Mattsson Markus,Downtown 65,46:46,2,2806
+197,45,Hyyryläinen Pasi,,46:47,2,2807
+198,118,Niittoaho Mikko,,46:47,2,2807
+199,617,Pöyry Anssi,Vantaa,46:50,2,2810
+200,601,Zych Monika,Vegaanijuoksijat,46:53,2,2813
+201,120,Nordling Sirpa,Porvoon Urheilijat,46:57,2,2817
+202,580,Janhunen Anna-Liina,Vantaa,46:59,2,2819
+203,29,Hautala Anne,,47:01,2,2821
+204,340,Äikäs Marko,Helsingin Kisaveikot,47:05,2,2825
+205,616,Åvall Michaela,Diablos Rohos,47:15,2,2835
+206,277,Jokela Virpi,,47:15,2,2835
+207,351,Keski-Pukkila Vesa,Keski-Vantaan Suunnistajat,47:20,2,2840
+208,595,Riska Magnus,Helsinki Triathlon,47:26,2,2846
+209,576,Kilpeläinen Riitta,Järvenpään pyöräilijät,47:37,2,2857
+210,343,Kulikoff Mikael,Helsinki,47:39,2,2859
+211,98,Markkanen Jukka,Downtown 65,47:43,2,2863
+212,79,Kytömäki Pekka,Endurance Ultrarunning Team Fi,47:47,2,2867
+213,5,Ala-Koukkari Mika,Friskis & Svettis,47:57,2,2877
+214,323,Heiliö Timo,Kotka,48:10,2,2890
+215,178,Sollman Petri,Helsinki Triathlon,48:24,2,2904
+216,210,Widbom Kalle,Helsinki Triathlon,48:27,2,2907
+217,156,Rosenback Tom,KPK 24/7,48:47,2,2927
+218,77,Kvist Marko,Kieri,48:49,2,2929
+219,155,Roopärg Marika,KU-58 / Täppsportlased,48:51,2,2931
+220,214,Vuorilehto Veli-Pekka,HSY,48:54,2,2934
+221,300,Suckman Petteri,Endurance Ultrarunning Team Fi,49:01,2,2941
+222,306,Vanninen Lissu,Triathlon Vantaa,49:05,2,2945
+223,48,Isoherranen Harri,,49:06,2,2946
+224,550,Lehtosaari Kimmo,ARDF Finland,49:08,2,2948
+225,590,Absetz Ilmari,Häjyt,49:11,2,2951
+226,577,Rask Riikka,Helsinki Triathlon,49:11,2,2951
+227,8,Anttalainen Jukka,Helsingin Jyry,49:15,2,2955
+228,584,Heikkinen Olli,ARDF Finland,49:17,2,2957
+229,160,Saari Jyrki,,49:22,2,2962
+230,172,Sederlöf Kristoffer,CSC,49:23,2,2963
+231,209,Vesterinen Anttoni,Helsinki Triathlon,49:24,2,2964
+232,40,Hepo-Oja Nuppu,HSY / Triathlon Vantaa,49:35,2,2975
+233,51,Jurmu Jouni,IF Sibbo Vargarna,49:41,2,2981
+234,102,Mieho Hilkka-Liisa,Helsingin Juoksijat,49:55,2,2995
+235,215,Vuorinen Markus,,49:59,2,2999
+236,510,Juopperi Markku,SpoVe,50:16,2,3016
+237,290,Oikarinen Tuomo J,,50:26,2,3026
+238,274,Hietalahti Mikko,,50:40,2,3040
+239,138,Pehkonen Susanna,,50:40,2,3040
+240,522,Niemi Kirsi,Helsingin juoksijat,50:42,2,3042
+241,22,Gottmann Igor,HSY,51:03,2,3063
+242,37,Heliö Miia,,51:05,2,3065
+243,569,Ignatius Antero,Endurance,51:06,2,3066
+244,212,Viljakainen Inca,Länsi-Uudenmaan urheilijat,51:11,2,3071
+245,161,Saari Taina,,51:13,2,3073
+246,737,Pasanen Eija,TriathlonSuomi,51:19,2,3079
+247,20,Friberg Raisa,,51:24,2,3084
+248,526,Öman Johanna,Team Wassu,51:27,2,3087
+249,269,Eklund Mikko,Aivan Raato,51:31,2,3091
+250,163,Sainio Jari,Kenttäurheilija-58,51:33,2,3093
+251,78,Kyllönen Janne,Kenttäurheilija-58,51:47,2,3107
+252,623,Kotilainen Lari,Kenttäurheilijat-58 Juoksukoul,51:52,2,3112
+253,302,Tirkkonen Mari,TriathlonSuomi,51:53,2,3113
+254,571,Lakio Laura,Samba Trail Running Club,51:58,2,3118
+255,165,Salmi Sirpa,,51:59,2,3119
+256,15,Enkovaara Jussi,CSC,52:39,2,3159
+257,276,Huttunen Margit,,52:58,2,3178
+258,747,Willamo Anette,Kauniainen,53:00,2,3180
+259,714,Sahlman Heikki,Hippoksen maratonkerho,53:01,2,3181
+260,24,Habets Marc,,53:24,2,3204
+261,321,Leskinen Elina,,53:35,2,3215
+262,727,Komulainen Viljo,Spo-ve,53:38,2,3218
+263,621,Hirtentreu Merle,Porvoon Urheilijat,53:46,2,3226
+264,334,Teileri Taina,Triathlon Suomi,53:48,2,3228
+265,553,Nikulainen Arto,Spove,53:55,2,3235
+266,162,Saari Tuula,Sykkeen Kaikuja Hyvinkään sair,53:59,2,3239
+267,270,Elo-Korpisaari Niina,,53:59,2,3239
+268,292,Palvas Leena,,54:20,2,3260
+269,717,Jukarainen Leena,Lahti-Sport,54:27,2,3267
+270,559,Ojamo Sari,Nurmijärvi,54:29,2,3269
+271,84,Laitinen Kalevi,,54:51,2,3291
+272,286,Miettinen Tiina,,55:10,2,3310
+273,34,Heino Jari,Hypy-Triathlon,55:14,2,3314
+274,521,Kälviäinen Teemu,,55:23,2,3323
+275,103,Miettinen Jari,CSC,55:42,2,3342
+276,726,Kainulainen Amanda,Vantaa,55:54,2,3354
+277,266,Andreev Katja,Vantaa,56:37,2,3397
+278,198,Turunen Visa,Spove ry.,56:45,2,3405
+279,81,Köykkä-Lempiäinen Susanna,,57:53,2,3473
+280,144,Piha Tanja,Run for Good,59:11,2,3551
+281,734,Löfström Martin,Sporttiveteraanit,59:56,2,3596
+282,517,Tarna Hannu,Ikaalisten Urheilijat,1:01:51,2,3711
+283,612,Särkkä Auni,Espoon Tapiot,1:01:54,2,3714
+284,68,Kirvesmäki Ari,Kenttäurheilija-58,1:12:06,2,4326
+1,648,Kero Jukka,Turun Urheiluliitto,33:42,3,2022
+2,322,Harjamäki Joonas,Helsingin Kisa-Veikot,34:11,3,2051
+3,19,Fishaye Samuel,Leppävaaran Sisu,34:20,3,2060
+4,44,Huusko Samuli,Kenttäurheilija-58,34:26,3,2066
+5,600,Salo Jukka,Karkkilan Pojat,34:58,3,2098
+6,707,Strömsholm Jani,Sibbo Vargarna,36:28,3,2188
+7,175,Simpanen Juuso,Finnish Marathon Runners,36:32,3,2192
+8,52,Juuti Petri,Kenttäurheilija-58,36:37,3,2197
+9,672,Turpeinen Petri,ForrestGuuri,37:09,3,2229
+10,361,Helander Iisak,Vantaa,37:13,3,2233
+11,332,Rissanen Simeon,Vantaan Salamat,37:28,3,2248
+12,183,Taponen Niko,Vegaanijuoksijat,37:31,3,2251
+13,612,Rintala Tuukka,Runner´s Club,37:35,3,2255
+14,283,Malm Mikko,Espoon Tapiot,37:51,3,2271
+15,601,Rintala Erkki,Tampereen Pyrintö,37:56,3,2276
+16,55,Järvinen Arto,Pakilan Visa,38:18,3,2298
+17,326,Glännefors Max,Broby Skidot,38:19,3,2299
+18,60,Karppinen Ville,,38:25,3,2305
+19,362,Planting Teemu,KU-58,38:26,3,2306
+20,325,Väisänen Janne,KU-58,38:31,3,2311
+21,304,Uusitalo Jari,Porvoon Urheilijat,38:38,3,2318
+22,94,Leppänen Teemu,Cheetah Consulting,38:41,3,2321
+23,308,Vänttinen Jukka,HPV,38:48,3,2328
+24,170,Savolainen Marko,Kenttäurheilija-58,38:49,3,2329
+25,294,Rautiainen Tuukka,,38:54,3,2334
+26,107,Myllysilta Tuomas,Kenttäurheilija-58,39:01,3,2341
+27,682,Mattila Samuli,Hämeenlinnan Tarmo,39:01,3,2341
+28,699,Maimonen Jarno,Bunkkerin Kaiku,39:05,3,2345
+29,121,Nupponen Tuomas,Kenttäurheilija-58,39:10,3,2350
+30,291,Ovaska Eetu,Triathlon Vantaa,39:15,3,2355
+31,572,Freij-Hollanti Ragnar,Runner's Club,39:17,3,2357
+32,181,Suominen Kari,Joken Talli,39:17,3,2357
+33,602,Pyykönen Jaakko,Espoo,39:26,3,2366
+34,90,Lehtonen Jaakko,Kenttäurheilija-58,39:46,3,2386
+35,184,Tauriainen Pekka,Triathlon Vantaa,39:49,3,2389
+36,30,Hava Juuso,Kenttäurheilija-58,39:50,3,2390
+37,4,Aittola Antti,,40:06,3,2406
+38,330,Risku Ismo,Tuusula,40:16,3,2416
+39,86,Lampinen Ismo,,40:20,3,2420
+40,53,Juuti Sari,Kenttäurheilija-58,40:21,3,2421
+41,610,Virtanen Kari,Hämeenlinnan Tarmo,40:27,3,2427
+42,529,Lippojoki Kai,Vantaa,40:36,3,2436
+43,204,Uuspelto Vesa,TDC,40:36,3,2436
+44,147,Punkari Matti,Hypy-Triathlon,40:39,3,2439
+45,168,Salomäki Jarno,Runner's Club,40:41,3,2441
+46,130,Orispää Markku,Esbo IF,40:47,3,2447
+47,2,Ahokas Jukka,Kenttäurheilija-58,40:52,3,2452
+48,199,Tuuli Tuukka,Espoon palolaitoksen urheilija,41:03,3,2463
+49,143,Pietarinen Juhani,EY,41:04,3,2464
+50,171,Schellingerhout Remco,Beesports.nl runningteam,41:05,3,2465
+51,205,Uuttu Satu,Kenttäurheilija-58,41:08,3,2468
+52,185,Tervo Jaakko,Jaskan Pauhajat,41:19,3,2479
+53,671,Raatikainen Tapani,Hämeenlinnan Tarmo,41:21,3,2481
+54,65,Keskitalo Jari,TriathlonSuomi,41:22,3,2482
+55,337,Santalahti Toni,Espoon Tapiot,41:24,3,2484
+56,187,Tiisanoja Pasi,,41:39,3,2499
+57,686,Sainio Joonas,Helsinki,41:49,3,2509
+58,195,Tuominen Mika,Esbo IF,41:53,3,2513
+59,367,Lindqvist Riku,Kenttäurheilijat-58,42:06,3,2526
+60,1,Ahdevainio Juha,Chateau de HöpöHöpö,42:07,3,2527
+61,202,Uusimäki Taika,Kenttäurheilija-58,42:15,3,2535
+62,186,Teuri Tuomas,,42:16,3,2536
+63,548,Nyholm Teemu,Kerava,42:17,3,2537
+64,114,Mäkäräinen Leena,Kenttäurheilija-58,42:20,3,2540
+65,273,Heikkilä Laura,Ice Power team,42:27,3,2547
+66,335,Välimaa Alpo,Espoon Tapiot,42:42,3,2562
+67,57,Kahilainen Marko,Kenttäurheilija-58,42:53,3,2573
+68,113,Mäkinen Simo,Helsinki Running Crew,42:58,3,2578
+69,203,Uusitalo Ruut,,42:59,3,2579
+70,280,Loponen Tapio,Team Castia,43:03,3,2583
+71,618,Lindroos Altti,Late morning squad,43:11,3,2591
+72,575,favale Joonas,Late morning squad,43:16,3,2596
+73,59,Karppinen Tony,Vegaanijuoksijat / Helsinki Ru,43:18,3,2598
+74,354,Laukkanen Mikko,Finnish Marathon Runners,43:27,3,2607
+75,125,Näsäkkälä Martti,Kenttäurheilija-58,43:30,3,2610
+76,92,Lempiäinen Timo,,43:38,3,2618
+77,64,Keskikukko Marko,,43:44,3,2624
+78,36,Helevä Heikki,Pihkaniskat,43:49,3,2629
+79,28,Hassinen Jukka-Pekka,Runner's Club,43:53,3,2633
+80,88,Laurell Panu,HSY,43:54,3,2634
+81,211,Viitanen Jarmo,Kenttäurheilija-58,44:02,3,2642
+82,750,Blomqvist Janne,Suomen Kustavin sauna&hiihtose,44:04,3,2644
+83,93,Leppänen Mika,,44:07,3,2647
+84,690,Lehtinen Petri,Runners Club,44:12,3,2652
+85,564,Rättyä Riitta,Nurmijärven YU,44:12,3,2652
+86,32,Heikkerö Peter,Porvoon Urheilijat,44:13,3,2653
+87,683,Heinonen Susanne,Kunnon Polte,44:14,3,2654
+88,69,Koivuranta Lauri,Joken Talli,44:20,3,2660
+89,611,Malmi Joona,Tampere,44:22,3,2662
+90,99,Martikainen Marko,Kenttäurheilija-58,44:23,3,2663
+91,164,Sallinen Mikko,Telia Runners Finland,44:23,3,2663
+92,146,Pitkänen Anu,,44:23,3,2663
+93,301,Tainio Jasper,Helsingin Jyry,44:30,3,2670
+94,646,Maisi Antti,Nurmijärvi,44:34,3,2674
+95,132,Pakkanen Olli,Peräkylän Ponnistus,44:35,3,2675
+96,10,Arokannas Elina,Kenttäurheilija-58,44:38,3,2678
+97,66,Keus Fred,Digia Finland,44:47,3,2687
+98,189,Toivonen Jussi,,44:48,3,2688
+99,281,Makkonen Jarkko,Järvenpään pyöräilijät,44:48,3,2688
+100,521,Kovero Juha-Pekka,Samba Trail Running Club,44:49,3,2689
+101,179,Stenvall Anna-Liisa,Kenttäurheilija-58,44:50,3,2690
+102,501,Sundén Jon,Helsinki,44:54,3,2694
+103,333,Mäkelä Jouko,Porvoo,44:59,3,2699
+104,13,Ek Tanja,Porvoon Urheilijat,45:02,3,2702
+105,667,Sederlund Jani,Vantaa,45:17,3,2717
+106,650,Monni Eki,Helsinki Triathlon ry,45:26,3,2726
+107,634,Huostila Anna,Kenttäurheilijat -58,45:29,3,2729
+108,133,Palva Lauri,Kenttäurheilija-58,45:30,3,2730
+109,14,Elovaara Jonna,VSVU,45:43,3,2743
+110,47,Iihola Antti,,45:44,3,2744
+111,526,Mattila Katja,Porvoon Urheilijat,45:44,3,2744
+112,746,Marjosola Ulla,Samba trail running club,45:47,3,2747
+113,95,Lång Eino,Hyvinkään Seudun Urheilijat,45:48,3,2748
+114,595,Rintala Jarmo,Tampereen Pyrintö,45:55,3,2755
+115,615,Hildén Topias,Helsinki,46:04,3,2764
+116,528,Lintula Petri,Helsinki Triathlon,46:05,3,2765
+117,359,Jantunen Juha,Hyvinkään Pyöräilijät,46:11,3,2771
+118,129,Ojanen Anu,Hämeenlinnan Tarmo,46:15,3,2775
+119,307,Virtanen Jari,Kenttäurheilijat -58,46:18,3,2778
+120,541,Kallioinen Katja,Xtri Lahti,46:23,3,2783
+121,527,Keränen Jarmo,Helsinki,46:23,3,2783
+122,3,Ahonen Jukka,,46:27,3,2787
+123,139,Peltonen Sari,Kenttäurheilija-58,46:28,3,2788
+124,206,Vallinoja Maija,Runner's Club,46:30,3,2790
+125,192,Tolppi Lasse,,46:43,3,2803
+126,597,Aakula Riikka,Kauniainen,46:47,3,2807
+127,510,Toivola Anssi,VO2 Magnum,46:54,3,2814
+128,300,Suckman Petteri,Endurance Ultrarunning Team Fi,46:54,3,2814
+129,33,Heikkilä Eero,Vantaa,46:59,3,2819
+130,705,Korhonen Jaana,Nurmijärven Yleisurheilijat,47:02,3,2822
+131,340,Äikäs Marko,Helsingin Kisaveikot,47:05,3,2825
+132,127,Oja Lea,Helsinki Triathlon,47:11,3,2831
+133,54,Jäppinen Pertti,Porvoon Urheilijat,47:17,3,2837
+134,275,Huttunen Susanna,X-tri Lahti,47:30,3,2850
+135,45,Hyyryläinen Pasi,,47:45,3,2865
+136,345,Suominen Jani,Kenttäurheilijat-58,47:58,3,2878
+137,39,Henttonen Anu,Helsinki,47:58,3,2878
+138,196,Tuominen Timo,,48:03,3,2883
+139,101,Meronen Gunnar,Taksi-Kontula,48:09,3,2889
+140,621,Toiviainen Mika,Espoo,48:14,3,2894
+141,120,Nordling Sirpa,Porvoon Urheilijat,48:25,3,2905
+142,554,Annala Matti,Sipoo,48:33,3,2913
+143,363,Absetz Ilmari,Häjyt,48:37,3,2917
+144,190,Tolonen Esko,,48:39,3,2919
+145,160,Saari Jyrki,,48:56,3,2936
+146,358,Honkela Matti,Army runners,48:58,3,2938
+147,116,Niemi Joona,Downtown 65,49:13,3,2953
+148,123,Nyman Christoffer,Tridiet Conquer,49:16,3,2956
+149,616,Nousiainen Lauri,Martinlaakso YLP,49:16,3,2956
+150,351,Keski-Pukkila Vesa,Keski-Vantaan Suunnistajat,49:20,3,2960
+151,663,Himankaa Jarmo,Finntriathlon Masters,49:38,3,2978
+152,505,Halonen Terhi,Kunto-Pirkat,49:42,3,2982
+153,115,Mäntylä Jukka,,49:46,3,2986
+154,119,Nikkanen Vesa,Suomen Tervaleppä,50:20,3,3020
+155,16,Enqvist Joonas,HSY,50:21,3,3021
+156,279,Laaksonen Jarno,Friskis & Svettis,50:35,3,3035
+157,138,Pehkonen Susanna,,50:37,3,3037
+158,210,Widbom Kalle,Helsinki Triathlon,50:38,3,3038
+159,365,Rikkonen Julianna,Kenttäurheilijat-58,50:43,3,3043
+160,8,Anttalainen Jukka,Helsingin Jyry,50:52,3,3052
+161,79,Kytömäki Pekka,Endurance Ultrarunning Team Fi,51:00,3,3060
+162,194,Tuomi Timo-Jussi,Chateau de HöpöHöpö,51:05,3,3065
+163,710,Rask Riikka,Helsinki Triathlon,51:06,3,3066
+164,214,Vuorilehto Veli-Pekka,HSY,51:15,3,3075
+165,643,Maltse Suvi,Helsinki,51:19,3,3079
+166,290,Oikarinen Tuomo J,,51:20,3,3080
+167,589,Valtonen Esko,Varsinais-Suomen Veteraaniurhe,51:20,3,3080
+168,702,Hartonen Raimo,Sporttiveteraanit,51:26,3,3086
+169,58,Kapanen Tero,Klaukkalan hikipinkojat,51:46,3,3106
+170,124,Nyman Maija,,52:02,3,3122
+171,156,Rosenback Tom,KPK 24/7,52:02,3,3122
+172,51,Jurmu Jouni,IF Sibbo Vargarna,52:07,3,3127
+173,24,Habets Marc,,52:14,3,3134
+174,151,Rask Kari,Kenttäurheilija-58,52:27,3,3147
+175,215,Vuorinen Markus,,52:32,3,3152
+176,48,Isoherranen Harri,,52:39,3,3159
+177,570,Ojamo Sari,Hypy Triathlon,52:40,3,3160
+178,9,Anttonen Veli-Pekka,Suomen Tervaleppä,52:47,3,3167
+179,11,Davey Phil,CSC,52:55,3,3175
+180,508,Ahokas Kati,Vegaanijuoksijat,53:12,3,3192
+181,102,Mieho Hilkka-Liisa,Helsingin Juoksijat,53:19,3,3199
+182,580,Ignatius Antero,Endurance,53:39,3,3219
+183,274,Hietalahti Mikko,,53:49,3,3229
+184,551,Lepp Karmen,Viro,53:58,3,3238
+185,341,Åkerman Milla,PU,54:11,3,3251
+186,117,Niemi Jorma,Kenttäurheilija-58,54:21,3,3261
+187,270,Elo-Korpisaari Niina,,54:43,3,3283
+188,126,Oinonen Juha,CSC,55:08,3,3308
+189,352,Hovilehto Tuija,Porvoon urheilijat,55:20,3,3320
+190,37,Heliö Miia,,55:31,3,3331
+191,666,Juopperi Markku,SpoVe,55:38,3,3338
+192,20,Friberg Raisa,,55:53,3,3353
+193,188,Tikanmäki Antti,Digia Finland,55:55,3,3355
+194,103,Miettinen Jari,CSC,55:59,3,3359
+195,15,Enkovaara Jussi,CSC,56:00,3,3360
+196,276,Huttunen Margit,,56:15,3,3375
+197,282,Makkonen Minna,Järvenpään pyöräilijät,56:29,3,3389
+198,680,Nikulainen Arto,Spove,56:31,3,3391
+199,162,Saari Tuula,Sykkeen Kaikuja Hyvinkään sair,56:31,3,3391
+200,155,Roopärg Marika,KU-58 / Täppsportlased,56:36,3,3396
+201,709,Kälviäinen Teemu,,57:02,3,3422
+202,286,Miettinen Tiina,,57:34,3,3454
+203,81,Köykkä-Lempiäinen Susanna,,58:19,3,3499
+204,198,Turunen Visa,Spove ry.,1:00:25,3,3625
+205,144,Piha Tanja,Run for Good,1:02:22,3,3742
+206,639,Särkkä Auni,Espoon Tapiot,1:04:16,3,3856
+207,296,Roots Anto,ESTri / LeSi,1:07:27,3,4047
+208,112,Mäkinen Olli,,1:09:53,3,4193
+209,68,Kirvesmäki Ari,Kenttäurheilija-58,1:18:44,3,4724
+1,322,Harjamäki Joonas,Helsingin Kisa-Veikot,32:36,4,1956
+2,44,Huusko Samuli,Kenttäurheilija-58,33:25,4,2005
+3,504,Kero Jukka,Turun Urheiluliitto,33:36,4,2016
+4,603,Salo Jukka,Karkkilan Pojat,34:00,4,2040
+5,332,Rissanen Simeon,Vantaan Salamat,35:57,4,2157
+6,537,Strömsholm Jani,Sibbo Vargarna,35:58,4,2158
+7,579,Turpeinen Petri,ForrestGuuri,36:24,4,2184
+8,52,Juuti Petri,Kenttäurheilija-58,36:50,4,2210
+9,26,Halme Tomi,Finnish Marathon Runners,36:55,4,2215
+10,326,Glännefors Max,Broby Skidot,37:44,4,2264
+11,325,Väisänen Janne,KU-58,37:48,4,2268
+12,701,Freij-Hollanti Ragnar,Runner's Club,37:55,4,2275
+13,55,Järvinen Arto,Pakilan Visa,38:12,4,2292
+14,291,Ovaska Eetu,Triathlon Vantaa,38:18,4,2298
+15,308,Vänttinen Jukka,HPV,38:31,4,2311
+16,297,Rönkkö Antti,Keravan Urheilijat,38:37,4,2317
+17,304,Uusitalo Jari,Porvoon Urheilijat,38:46,4,2326
+18,121,Nupponen Tuomas,Kenttäurheilija-58,38:47,4,2327
+19,567,Pyykönen Jaakko,Espoo,38:55,4,2335
+20,94,Leppänen Teemu,Cheetah Consulting,39:03,4,2343
+21,181,Suominen Kari,Joken Talli,39:04,4,2344
+22,153,Rautkoski Joosua,X-tri Lahti,39:06,4,2346
+23,107,Myllysilta Tuomas,Kenttäurheilija-58,39:06,4,2346
+24,294,Rautiainen Tuukka,,39:15,4,2355
+25,687,Mikkola Juhana,Vantaa,39:23,4,2363
+26,170,Savolainen Marko,Kenttäurheilija-58,39:24,4,2364
+27,184,Tauriainen Pekka,Triathlon Vantaa,39:26,4,2366
+28,585,Taskila Sakari,Espoo,39:30,4,2370
+29,147,Punkari Matti,Hypy-Triathlon,39:38,4,2378
+30,4,Aittola Antti,,39:58,4,2398
+31,591,Simola Tommi,Triathlon Suomi,40:09,4,2409
+32,368,Kosonen Soili,Espoon Tapiot,40:10,4,2410
+33,2,Ahokas Jukka,Kenttäurheilija-58,40:15,4,2415
+34,185,Tervo Jaakko,Jaskan Pauhajat,40:22,4,2422
+35,293,Puustelli Jouni,Hämeenkylän Mahti,40:25,4,2425
+36,53,Juuti Sari,Kenttäurheilija-58,40:30,4,2430
+37,267,Borremans Erwin,Hyvinkää triathlon,40:37,4,2437
+38,330,Risku Ismo,Tuusula,40:53,4,2453
+39,143,Pietarinen Juhani,EY,40:56,4,2456
+40,164,Sallinen Mikko,Telia Runners Finland,41:03,4,2463
+41,18,Felber Rene,EY Running Club,41:16,4,2476
+42,205,Uuttu Satu,Kenttäurheilija-58,41:22,4,2482
+43,41,Hillo Kari,Downtown 65 Endurance,41:28,4,2488
+44,590,Niskanen Janne,Vehkalahden Veikot,41:29,4,2489
+45,191,Tolonen Veijo,Team Uphill Swimmers,41:29,4,2489
+46,743,Frolov Sergey,Forssan Salama,41:37,4,2497
+47,114,Mäkäräinen Leena,Kenttäurheilija-58,41:44,4,2504
+48,353,Peltonen Janne,Kenttäurheilijat-58,41:53,4,2513
+49,622,Nyholm Teemu,Kerava,41:56,4,2516
+50,305,Vainikainen Vesa,Helsinki Triathlon,41:58,4,2518
+51,367,Lindqvist Riku,Kenttäurheilijat-58,42:00,4,2520
+52,23,Haapaniemi Janne,Kieri Ry,42:02,4,2522
+53,541,Vartiainen Mirja,Espoon Tapiot,42:02,4,2522
+54,204,Uuspelto Vesa,TDC,42:10,4,2530
+55,1,Ahdevainio Juha,Chateau de HöpöHöpö,42:14,4,2534
+56,57,Kahilainen Marko,Kenttäurheilija-58,42:17,4,2537
+57,273,Heikkilä Laura,Ice Power team,42:20,4,2540
+58,137,Pehkonen Markku,Helsinki,42:21,4,2541
+59,65,Keskitalo Jari,TriathlonSuomi,42:33,4,2553
+60,64,Keskikukko Marko,,42:51,4,2571
+61,506,Rantanen Johanna,Helsinki,43:02,4,2582
+62,203,Uusitalo Ruut,,43:27,4,2607
+63,642,Kero Andreina,Turun Urheiluliitto,43:34,4,2614
+64,125,Näsäkkälä Martti,Kenttäurheilija-58,43:42,4,2622
+65,99,Martikainen Marko,Kenttäurheilija-58,43:47,4,2627
+66,32,Heikkerö Peter,Porvoon Urheilijat,43:50,4,2630
+67,47,Iihola Antti,,44:05,4,2645
+68,281,Makkonen Jarkko,Järvenpään pyöräilijät,44:08,4,2648
+69,113,Mäkinen Simo,Helsinki Running Crew,44:21,4,2661
+70,28,Hassinen Jukka-Pekka,Runner's Club,44:26,4,2666
+71,301,Tainio Jasper,Helsingin Jyry,44:37,4,2677
+72,509,Lehtinen Petri,Runners Club,44:42,4,2682
+73,637,Munukka Ellu,Helsinki,44:49,4,2689
+74,649,Monni Eki,Helsinki Triathlon ry,44:52,4,2692
+75,146,Pitkänen Anu,,44:58,4,2698
+76,150,Pätäri Simo,Konian Ritarit,45:06,4,2706
+77,623,Vihonen Piia,Espoon Tapiot,45:08,4,2708
+78,39,Henttonen Anu,Helsinki,45:11,4,2711
+79,584,Kauko Maria,HelTri,45:33,4,2733
+80,613,Kirkkomäki Matts,Helsinki,45:36,4,2736
+81,148,Puolamäki Kai,Kenttäurheilija-58,45:43,4,2743
+82,133,Palva Lauri,Kenttäurheilija-58,45:46,4,2746
+83,744,Paitula Annika,Espoo,45:48,4,2748
+84,71,Korpela Sami,,45:49,4,2749
+85,206,Vallinoja Maija,Runner's Club,45:50,4,2750
+86,95,Lång Eino,Hyvinkään Seudun Urheilijat,45:56,4,2756
+87,189,Toivonen Jussi,,45:57,4,2757
+88,106,Myllymäki Markus,Friskis & Svettis,46:01,4,2761
+89,159,Röyskö Timo,Torsten Salaojaremontit,46:12,4,2772
+90,122,Nurmi Janne,Downtown 65,46:27,4,2787
+91,13,Ek Tanja,Porvoon Urheilijat,46:30,4,2790
+92,73,Kujo Katja,Kenttäurheilija-58,46:34,4,2794
+93,532,Sundén Jon,Helsinki,46:41,4,2801
+94,129,Ojanen Anu,Hämeenlinnan Tarmo,46:45,4,2805
+95,54,Jäppinen Pertti,Porvoon Urheilijat,46:48,4,2808
+96,101,Meronen Gunnar,Taksi-Kontula,47:05,4,2825
+97,655,Annala Matti,Sipoo,47:15,4,2835
+98,127,Oja Lea,Helsinki Triathlon,47:23,4,2843
+99,717,Haapasaari Pekka,Helsinki Trialthon,47:34,4,2854
+100,190,Tolonen Esko,,47:38,4,2858
+101,588,Piironen Ari,Siuntio,47:45,4,2865
+102,200,Tyni Jani,Kestävyyttä pintakaasulla 24/7,48:08,4,2888
+103,16,Enqvist Joonas,HSY,48:20,4,2900
+104,522,Kilpeläinen Riitta,Järvenpään pyöräilijät,48:29,4,2909
+105,167,Salo Samu,,48:34,4,2914
+106,67,Kilponen Tarja,Espoon Tapiot,48:46,4,2926
+107,645,Simola Harry,Lahti,48:52,4,2932
+108,173,Seppänen Juha,Helsingin Jyry,49:08,4,2948
+109,72,Kujala Jarkko,Kenttäurheilija-58,49:25,4,2965
+110,290,Oikarinen Tuomo J,,49:29,4,2969
+111,98,Markkanen Jukka,Downtown 65,49:33,4,2973
+112,343,Kulikoff Mikael,Helsinki,50:01,4,3001
+113,22,Gottmann Igor,HSY,50:08,4,3008
+114,351,Keski-Pukkila Vesa,Keski-Vantaan Suunnistajat,50:14,4,3014
+115,138,Pehkonen Susanna,,50:28,4,3028
+116,8,Anttalainen Jukka,Helsingin Jyry,50:40,4,3040
+117,277,Jokela Virpi,,50:42,4,3042
+118,156,Rosenback Tom,KPK 24/7,50:48,4,3048
+119,214,Vuorilehto Veli-Pekka,HSY,50:59,4,3059
+120,514,Timonen Heikki,Helsinki,51:06,4,3066
+121,540,Laine Saila,Helsinki,51:07,4,3067
+122,48,Isoherranen Harri,,51:10,4,3070
+123,15,Enkovaara Jussi,CSC,51:15,4,3075
+124,279,Laaksonen Jarno,Friskis & Svettis,51:20,4,3080
+125,78,Kyllönen Janne,Kenttäurheilija-58,51:21,4,3081
+126,215,Vuorinen Markus,,51:33,4,3093
+127,51,Jurmu Jouni,IF Sibbo Vargarna,51:40,4,3100
+128,188,Tikanmäki Antti,Digia Finland,51:45,4,3105
+129,77,Kvist Marko,Kieri,52:23,4,3143
+130,102,Mieho Hilkka-Liisa,Helsingin Juoksijat,52:35,4,3155
+131,124,Nyman Maija,,53:38,4,3218
+132,578,Leino Sara,Helsingin Jyry,53:43,4,3223
+133,352,Hovilehto Tuija,Porvoon urheilijat,53:44,4,3224
+134,194,Tuomi Timo-Jussi,Chateau de HöpöHöpö,53:50,4,3230
+135,342,Kulikoff Laura,Helsinki,54:00,4,3240
+136,289,Nurmi Tiina,Sikakorven Sisu,54:10,4,3250
+137,151,Rask Kari,Kenttäurheilija-58,54:14,4,3254
+138,155,Roopärg Marika,KU-58 / Täppsportlased,54:21,4,3261
+139,274,Hietalahti Mikko,,54:30,4,3270
+140,364,Kotilainen Lari,Kenttäurheilijat-58 Juoksukoul,54:37,4,3277
+141,559,Juopperi Markku,SpoVe,54:55,4,3295
+142,212,Viljakainen Inca,Länsi-Uudenmaan urheilijat,55:02,4,3302
+143,165,Salmi Sirpa,,56:21,4,3381
+144,715,Kälviäinen Teemu,Helsinki,56:24,4,3384
+145,282,Makkonen Minna,Järvenpään pyöräilijät,56:26,4,3386
+146,321,Leskinen Elina,,57:24,4,3444
+147,292,Palvas Leena,,58:14,4,3494
+148,81,Köykkä-Lempiäinen Susanna,,58:27,4,3507
+149,266,Andreev Katja,Vantaa,59:38,4,3578
+150,513,Westermarck Ulla,Hki,59:41,4,3581
+151,688,Pakkanen Pekka,Helsinki,1:03:41,4,3821
+152,665,Pakkanen Anna,Helsinki,1:03:42,4,3822
+153,711,Ignatius Antero,Endurance,1:03:53,4,3833
+153,573,Särkkä Auni,Espoon Tapiot,1:03:53,4,3833
+155,296,Roots Anto,ESTri / LeSi,1:07:18,4,4038
+156,112,Mäkinen Olli,,1:09:14,4,4154
+157,626,Tiili Paula,Helsinki,1:11:43,4,4303
+158,68,Kirvesmäki Ari,Kenttäurheilija-58,1:18:10,4,4690
+1,562,Saleva Eero,Helsingin Kisaveikot,32:13,5,1933
+2,677,Jantunen Panu,HKV,32:21,5,1941
+3,544,Kero Jukka,Turun Urheiluliitto,32:35,5,1955
+4,44,Huusko Samuli,Kenttäurheilija-58,32:52,5,1972
+5,531,Valido Toni,Hoka One One,32:57,5,1977
+6,19,Fishaye Samuel,Leppävaaran Sisu,33:00,5,1980
+7,512,Kumpula Jussi,Espoo,33:03,5,1983
+8,681,Salo Jukka,Karkkilan Pojat,33:40,5,2020
+9,602,Strömsholm Jani,Sibbo Vargarna,33:53,5,2033
+10,735,Leinonen Jaakko,Ylikiimingin Nuijamiehet,33:56,5,2036
+11,620,Antikainen Pekka,Turun Toverit,33:58,5,2038
+12,704,Jokinen Janne,Vaajakosken Kuohu,34:03,5,2043
+13,726,Kauppila Manu,Honkajoen Seudun Urheilijat,34:06,5,2046
+14,511,Brunila Johannes,Bruno's Physique Club,34:38,5,2078
+15,707,Palmi Rasmus,Team Palmi,34:54,5,2094
+16,26,Halme Tomi,Finnish Marathon Runners,34:55,5,2095
+17,52,Juuti Petri,Kenttäurheilija-58,35:04,5,2104
+18,175,Simpanen Juuso,Finnish Marathon Runners,35:12,5,2112
+19,705,Kulpakko Pekka,Espoon Tapiot,35:14,5,2114
+20,557,Laitinen Lassi,Rude Roach brewins,35:15,5,2115
+21,599,Löppönen Juha,Helsingin Jyry,35:18,5,2118
+22,648,Valkonen Timo,Jyväskylän Kenttäurheilijat,35:21,5,2121
+23,536,Vähänen Sami,Samba Trail Runners,35:40,5,2140
+24,594,Hapola Tuomas,Savitaipaleen Urheilijat,35:43,5,2143
+25,621,Rintala Tuukka,Runner´s Club,35:49,5,2149
+26,283,Malm Mikko,Espoon Tapiot,35:58,5,2158
+27,238,Krogell Rasmus,Kenttäurheilija-58,36:04,5,2164
+28,561,Immonen Tomi,Runner's Club,36:06,5,2166
+29,624,Korpela Matias,Turku,36:07,5,2167
+30,574,Virta Jani,Kestävyysurheilu.fi / Neste Un,36:15,5,2175
+31,505,Skräddar Katarina,Helsingin Jyry,36:21,5,2181
+32,297,Rönkkö Antti,Keravan Urheilijat,36:36,5,2196
+32,257,Stark Akseli,Kenttäurheilija-58,36:36,5,2196
+34,566,Niemi Aki,Teivo Stars,36:40,5,2200
+35,587,Loisa Jesse,Lappeenrannan Urheilumiehet,36:44,5,2204
+36,361,Helander Iisak,Vantaa,36:54,5,2214
+37,55,Järvinen Arto,Pakilan Visa,36:59,5,2219
+38,700,Kokkonen Ossi,Downtown 65,37:03,5,2223
+39,308,Vänttinen Jukka,HPV,37:07,5,2227
+40,501,Ruohomäki Jyrki,Helsinki Triathlon,37:09,5,2229
+41,614,Freij-Hollanti Ragnar,Runner's Club,37:12,5,2232
+42,325,Väisänen Janne,KU-58,37:15,5,2235
+43,654,Rintala Erkki,Tampereen Pyrintö,37:18,5,2238
+44,56,Jääskeläinen Timo,Runner's Club,37:19,5,2239
+45,60,Karppinen Ville,,37:21,5,2241
+46,625,Soininen Arttu,Espoon Tapiot,37:27,5,2247
+47,600,Uusitalo Matti,Kuivasjärven Aura,37:36,5,2256
+48,109,Mäkelä Mikko,Downtown 65,37:39,5,2259
+49,601,Tuominen Mira,Forssan Salama,37:44,5,2264
+50,304,Uusitalo Jari,Porvoon Urheilijat,37:46,5,2266
+51,362,Planting Teemu,KU-58,37:59,5,2279
+52,181,Suominen Kari,Joken Talli,38:00,5,2280
+53,525,Lehtinen Lauri,Helsinki,38:01,5,2281
+54,563,Hilkamo Oona,,38:01,5,2281
+55,651,Lönnström Kim,Porvoon Urheilijat,38:02,5,2282
+56,184,Tauriainen Pekka,Triathlon Vantaa,38:08,5,2288
+57,634,Haajanen Sofia,SK-Pohjantöhti,38:09,5,2289
+58,606,Puustinen Teemu,Kenttäurheilijat-58,38:10,5,2290
+59,2,Ahokas Jukka,Kenttäurheilija-58,38:12,5,2292
+60,533,Hynninen Jussi,Helsinki,38:15,5,2295
+61,326,Glännefors Max,Broby Skidot,38:17,5,2297
+62,294,Rautiainen Tuukka,,38:21,5,2301
+63,168,Salomäki Jarno,Runner's Club,38:24,5,2304
+64,670,Syvälä Minna,Espoon Tapiot,38:31,5,2311
+65,4,Aittola Antti,,38:35,5,2315
+66,94,Leppänen Teemu,Cheetah Consulting,38:37,5,2317
+67,588,Vesikansa Jarkko,Helsinki Triathlon,38:39,5,2319
+68,164,Sallinen Mikko,Telia Runners Finland,38:40,5,2320
+69,368,Kosonen Soili,Espoon Tapiot,38:42,5,2322
+70,575,Mikkola Juhana,Vantaa,38:44,5,2324
+71,708,Virtanen Kari,Hämeenlinnan Tarmo,38:45,5,2325
+72,610,Pyykkönen Jaakko,Espoo,38:48,5,2328
+73,330,Risku Ismo,Tuusula,38:49,5,2329
+74,170,Savolainen Marko,Kenttäurheilija-58,38:49,5,2329
+75,720,Kindstedt Sebastian,Electrofit,38:51,5,2331
+76,646,Räisänen Petteri,Helsinki,38:59,5,2339
+77,143,Pietarinen Juhani,EY,39:00,5,2340
+78,147,Punkari Matti,Hypy-Triathlon,39:10,5,2350
+79,153,Rautkoski Joosua,X-tri Lahti,39:11,5,2351
+80,298,Saavalainen Petri,Juoksija-lehti,39:21,5,2361
+81,121,Nupponen Tuomas,Kenttäurheilija-58,39:29,5,2369
+82,53,Juuti Sari,Kenttäurheilija-58,39:32,5,2372
+83,510,Frolov Sergey,Forssan Salama,39:35,5,2375
+84,367,Lindqvist Riku,Kenttäurheilijat-58,39:36,5,2376
+85,642,Kipfer Robin,Helsinki Social Runners,39:36,5,2376
+85,661,Järvelä Riku,Samba Trail Running Club,39:36,5,2376
+87,273,Heikkilä Laura,Ice Power team,39:40,5,2380
+88,30,Hava Juuso,Kenttäurheilija-58,39:41,5,2381
+88,667,Mäkelä Tomi,Pihkaniskat,39:41,5,2381
+90,629,Prittinen Juha,Hämeenlinnan Suunnistajat,39:45,5,2385
+91,171,Schellingerhout Remco,Beesports.nl runningteam,39:52,5,2392
+92,27,Harju Olli,Kenttäurheilija-58,39:53,5,2393
+93,564,Sainio Joonas,Helsinki,39:54,5,2394
+94,199,Tuuli Tuukka,Espoon palolaitoksen urheilija,39:57,5,2397
+95,684,Vuorimaa Anna,Turku,39:59,5,2399
+96,581,Kilpeläinen Essi,Helsingin Juoksijat,40:00,5,2400
+97,291,Ovaska Eetu,Triathlon Vantaa,40:00,5,2400
+98,185,Tervo Jaakko,Jaskan Pauhajat,40:06,5,2406
+99,76,Kullberg Sanna,Kenttäurheilija-58,40:07,5,2407
+100,337,Santalahti Toni,Espoon Tapiot,40:10,5,2410
+101,619,Kero Markku,RCSD,40:14,5,2414
+102,671,Paronen Nella,Karhulan Katajaiset,40:16,5,2416
+103,576,Lahdenperä Melina,Espoon Tapiot,40:18,5,2418
+104,553,Simola Tommi,Triathlon Suomi,40:19,5,2419
+105,353,Peltonen Janne,Kenttäurheilijat-58,40:24,5,2424
+106,65,Keskitalo Jari,TriathlonSuomi,40:29,5,2429
+107,114,Mäkäräinen Leena,Kenttäurheilija-58,40:32,5,2432
+108,526,Siikilä Juho,Mikkelin Kilpa-Veikot,40:35,5,2435
+109,657,Toppari Oskari,Espoo,40:46,5,2446
+110,280,Loponen Tapio,Team Castia,40:47,5,2447
+111,201,Ustinov Timo,SKB Racing Triathlon Team,40:50,5,2450
+112,699,Vartiainen Mirja,Espoon Tapiot,40:53,5,2453
+113,49,Jukarainen Jaakko,,40:53,5,2453
+114,195,Tuominen Mika,Esbo IF,40:58,5,2458
+115,38,Hellberg Jari,Kenttäurheilija-58,41:04,5,2464
+116,92,Lempiäinen Timo,,41:06,5,2466
+117,685,Soikkeli Jarkko,Runner's Club,41:06,5,2466
+118,598,Malinen Saara,Runner´s Club,41:07,5,2467
+119,18,Felber Rene,EY Running Club,41:09,5,2469
+120,202,Uusimäki Taika,Kenttäurheilija-58,41:09,5,2469
+121,205,Uuttu Satu,Kenttäurheilija-58,41:11,5,2471
+122,305,Vainikainen Vesa,Helsinki Triathlon,41:15,5,2475
+123,57,Kahilainen Marko,Kenttäurheilija-58,41:17,5,2477
+124,145,Pihlajavesi Mikko,Kenttäurheilija-58,41:21,5,2481
+125,616,Fransman Sam,SV-ski,41:26,5,2486
+126,197,Tuovinen Katariina,Kenttäurheilija-58,41:31,5,2491
+127,592,Suomela Jarkko,Helsingin Juoksijat,41:32,5,2492
+128,580,Alden Jan,Porvoon Urheilijat,41:43,5,2503
+129,125,Näsäkkälä Martti,Kenttäurheilija-58,41:49,5,2509
+130,59,Karppinen Tony,Vegaanijuoksijat / Helsinki Ru,41:50,5,2510
+131,750,Schroderus Taru,X-tri Lahti,41:51,5,2511
+132,64,Keskikukko Marko,,41:51,5,2511
+133,132,Pakkanen Olli,Peräkylän Ponnistus,41:52,5,2512
+134,1,Ahdevainio Juha,Chateau de HöpöHöpö,41:55,5,2515
+135,99,Martikainen Marko,Kenttäurheilija-58,41:57,5,2517
+136,641,Kanerva Pekka,Espoon Tapiot,41:58,5,2518
+137,91,Lehtonen Panja,Kenttäurheilija-58,42:01,5,2521
+138,555,Rantanen Johanna,Helsinki,42:13,5,2533
+139,686,Maisi Antti,Nurmijärvi,42:14,5,2534
+140,113,Mäkinen Simo,Helsinki Running Crew,42:16,5,2536
+141,650,Lehtosaari Kimmo,ARDF Finland,42:16,5,2536
+142,58,Kapanen Tero,Klaukkalan hikipinkojat,42:17,5,2537
+143,545,Toikka Akseli,Hki,42:23,5,2543
+144,85,Lammi Uki,OC Puisto,42:26,5,2546
+145,543,Rintala Jarmo,Tampereen Pyrintö,42:35,5,2555
+146,662,Mattila Karol,Heltri,42:36,5,2556
+147,301,Tainio Jasper,Helsingin Jyry,42:38,5,2558
+148,150,Pätäri Simo,Konian Ritarit,42:41,5,2561
+149,47,Iihola Antti,,42:44,5,2564
+150,354,Laukkanen Mikko,Finnish Marathon Runners,42:50,5,2570
+151,137,Pehkonen Markku,Helsinki,42:57,5,2577
+152,211,Viitanen Jarmo,Kenttäurheilija-58,43:01,5,2581
+153,88,Laurell Panu,HSY,43:03,5,2583
+154,146,Pitkänen Anu,,43:03,5,2583
+155,521,Pihamäki Jesse,Espoon Tapiot,43:04,5,2584
+156,10,Arokannas Elina,Kenttäurheilija-58,43:05,5,2585
+157,593,Heinonen Susanne,Kunnon Polte,43:05,5,2585
+158,179,Stenvall Anna-Liisa,Kenttäurheilija-58,43:06,5,2586
+159,680,Kiianen Atte,Helsingin Jyry,43:06,5,2586
+160,741,Uro Jukka,Vantaa,43:11,5,2591
+161,663,Sundén Jon,Helsinki,43:14,5,2594
+162,731,Rättyä Riitta,Nurmijärven YU,43:14,5,2594
+163,36,Helevä Heikki,Pihkaniskat,43:22,5,2602
+164,69,Koivuranta Lauri,Joken Talli,43:23,5,2603
+165,589,Lehtinen Petri,Runners Club,43:27,5,2607
+166,569,Kattelus Juuso,Auran Vannas,43:32,5,2612
+167,507,Sunila Laura,Runners Club,43:33,5,2613
+168,683,Aalto Josefina,Runner's Club,43:35,5,2615
+169,733,Jääskeläinen Pekka,Järvenpään pyöräilijät,43:40,5,2620
+170,133,Palva Lauri,Kenttäurheilija-58,43:42,5,2622
+171,603,Leikko Jaakko,Nummela 481,43:51,5,2631
+172,189,Toivonen Jussi,,43:52,5,2632
+173,640,Kanerva Mari,Espoon Tapiot,43:54,5,2634
+174,307,Virtanen Jari,Kenttäurheilijat -58,43:58,5,2638
+175,196,Tuominen Timo,,44:02,5,2642
+176,32,Heikkerö Peter,Porvoon Urheilijat,44:08,5,2648
+177,93,Leppänen Mika,,44:08,5,2648
+178,550,Nyholm Juho,Helsinki,44:11,5,2651
+179,727,Ekblom Tommy,Porvoon Urheilijat,44:12,5,2652
+180,668,Mattila Milla,Helsingin Suunnistajat,44:13,5,2653
+181,718,Taipale Virpi,Helsingin Juoksijat,44:15,5,2655
+182,658,Kalliniemi Jussi,Espoo,44:18,5,2658
+183,604,Loukusa Päivi,Samba Trail Running,44:19,5,2659
+184,193,Torkkeli Mari,Samba Trail Running Club,44:20,5,2660
+185,666,Turakainen Venla,Helsingin Suunnistajat,44:22,5,2662
+186,577,Autio Timo,Espoo,44:22,5,2662
+187,742,Tapprest Jean,Helsinki,44:29,5,2669
+188,122,Nurmi Janne,Downtown 65,44:29,5,2669
+189,16,Enqvist Joonas,HSY,44:33,5,2673
+190,200,Tyni Jani,Kestävyyttä pintakaasulla 24/7,44:34,5,2674
+191,14,Elovaara Jonna,VSVU,44:34,5,2674
+192,281,Makkonen Jarkko,Järvenpään pyöräilijät,44:42,5,2682
+193,659,Monni Eki,Helsinki Triathlon ry,44:43,5,2683
+194,206,Vallinoja Maija,Runner's Club,44:43,5,2683
+195,176,Sipilä Aleksi,Helsinki Triathlon,44:47,5,2687
+196,106,Myllymäki Markus,Friskis & Svettis,44:55,5,2695
+197,568,Ojanen T,Helsinki,44:56,5,2696
+198,110,Mäkelä Nina,TriDiet Conquer,44:56,5,2696
+199,690,Kanerva Juha,Helsingin Juoksijat,44:58,5,2698
+200,638,Perkiömäki Mika,RC Eemeli,44:59,5,2699
+201,6,Alanko Tero,Kenttäurheilija-58,45:03,5,2703
+202,139,Peltonen Sari,Kenttäurheilija-58,45:04,5,2704
+203,3,Ahonen Jukka,,45:13,5,2713
+204,127,Oja Lea,Helsinki Triathlon,45:15,5,2715
+205,119,Nikkanen Vesa,Suomen Tervaleppä,45:16,5,2716
+206,529,Ylä-Kujala Sanni,x-Tri Lahti,45:16,5,2716
+207,116,Niemi Joona,Downtown 65,45:17,5,2717
+208,192,Tolppi Lasse,,45:18,5,2718
+209,534,Niklander Niko,Downtown 65,45:18,5,2718
+210,101,Meronen Gunnar,Taksi-Kontula,45:21,5,2721
+211,732,Lappela Anni,RC Eemeli,45:21,5,2721
+212,72,Kujala Jarkko,Kenttäurheilija-58,45:23,5,2723
+213,560,Elovaara Harri,VSVU,45:24,5,2724
+214,633,Simons Magnus,Espoo,45:28,5,2728
+215,618,Lindqvist Marcus,Helsinki Triathlon,45:32,5,2732
+216,129,Ojanen Anu,Hämeenlinnan Tarmo,45:33,5,2733
+217,645,Kauko Maria,HelTri,45:34,5,2734
+218,54,Jäppinen Pertti,Porvoon Urheilijat,45:38,5,2738
+219,148,Puolamäki Kai,Kenttäurheilija-58,45:40,5,2740
+220,194,Tuomi Timo-Jussi,Chateau de HöpöHöpö,45:42,5,2742
+221,95,Lång Eino,Hyvinkään Seudun Urheilijat,45:45,5,2745
+222,644,Niemi Jaana,Iitin Pyrintö,45:46,5,2746
+223,630,Aaltonen Toni,Downtown 65,45:49,5,2749
+224,117,Niemi Jorma,Kenttäurheilija-58,45:59,5,2759
+225,190,Tolonen Esko,,46:19,5,2779
+226,660,Annala Matti,Sipoo,46:24,5,2784
+227,573,Maaniitty Tatu,Helsinki,46:35,5,2795
+228,682,Solastie Jussi,Helsinki,46:36,5,2796
+229,672,Väinämö Katariina,Espoo,46:50,5,2810
+230,173,Seppänen Juha,Helsingin Jyry,46:51,5,2811
+231,13,Ek Tanja,Porvoon Urheilijat,46:53,5,2813
+232,612,Urpilainen Esko,Lahti Sport 35+,46:54,5,2814
+233,343,Kulikoff Mikael,Helsinki,46:54,5,2814
+234,556,Nousiainen Lauri,Vantaa,46:55,5,2815
+235,115,Mäntylä Jukka,,47:08,5,2828
+236,632,Kilpeläinen Riitta,Järvenpään pyöräilijät,47:08,5,2828
+237,546,Hietanen Pinja,Helsingin Suunnistajat,47:11,5,2831
+238,120,Nordling Sirpa,Porvoon Urheilijat,47:12,5,2832
+239,728,Himanka Jarmo,HyPyTri,47:19,5,2839
+240,617,Piironen Ari,Siuntio,47:20,5,2840
+241,627,Telamo Tea,Triathlon Suomi,47:25,5,2845
+242,279,Laaksonen Jarno,Friskis & Svettis,47:32,5,2852
+243,703,Niemelä Armi,Runner's High,47:36,5,2856
+244,351,Keski-Pukkila Vesa,Keski-Vantaan Suunnistajat,47:37,5,2857
+245,178,Sollman Petri,Helsinki Triathlon,47:44,5,2864
+246,748,Telsavaara Timo,Hyvinkää,47:52,5,2872
+247,45,Hyyryläinen Pasi,,47:53,5,2873
+248,358,Honkela Matti,Army runners,47:54,5,2874
+249,653,Aakula Riikka,Kauniainen,47:58,5,2878
+250,102,Mieho Hilkka-Liisa,Helsingin Juoksijat,48:01,5,2881
+251,290,Oikarinen Tuomo J,,48:09,5,2889
+252,582,Valtonen Esko,Varsinais-Suomen Veteraaniurhe,48:12,5,2892
+253,108,Mäkelä Mikko,TriSuomi/Fennopoint Oy,48:24,5,2904
+254,509,Vuoti Vesa,PARAS,48:26,5,2906
+255,746,Ståhl Peter,IF Sibbo Vargarna,48:28,5,2908
+256,277,Jokela Virpi,,48:30,5,2910
+257,523,Toivanen Johanna,Nummela 481,48:30,5,2910
+258,363,Absetz Ilmari,Häjyt,48:39,5,2919
+259,710,Toiviainen Mika,Espoo,48:41,5,2921
+260,29,Hautala Anne,,48:48,5,2928
+261,631,Toukkari Milla,Helsingin Juoksijat,48:49,5,2929
+262,9,Anttonen Veli-Pekka,Suomen Tervaleppä,48:56,5,2936
+263,596,Timonen Heikki,Pasin talli,49:02,5,2942
+264,128,Ojajärvi Minna,Kenttäurheilija-58,49:04,5,2944
+265,643,Sandholm Pasi,Liikuttavat,49:07,5,2947
+266,48,Isoherranen Harri,,49:12,5,2952
+267,524,Ryhänen Henri,Nummela 481,49:12,5,2952
+268,215,Vuorinen Markus,,49:18,5,2958
+269,24,Habets Marc,,49:20,5,2960
+270,126,Oinonen Juha,CSC,49:31,5,2971
+271,271,Glynn Darren,Gladius Kirkkonummi,49:36,5,2976
+272,78,Kyllönen Janne,Kenttäurheilija-58,49:38,5,2978
+273,552,Nurmi Jukka,Kenttäurheilijat -58,49:45,5,2985
+274,172,Sederlöf Kristoffer,CSC,49:51,5,2991
+275,572,Ahokas Kati,Vegaanijuoksijat,49:58,5,2998
+276,79,Kytömäki Pekka,Endurance Ultrarunning Team Fi,50:00,5,3000
+277,22,Gottmann Igor,HSY,50:03,5,3003
+278,615,Heikkinen Olli,ARDF Finland,50:04,5,3004
+279,306,Vanninen Lissu,Triathlon Vantaa,50:05,5,3005
+280,138,Pehkonen Susanna,,50:09,5,3009
+281,214,Vuorilehto Veli-Pekka,HSY,50:33,5,3033
+282,83,Lainema Tommi,Samba Trail Running Club,50:41,5,3041
+283,274,Hietalahti Mikko,,50:45,5,3045
+284,673,Ojamo Sari,Hypy Triathlon,51:01,5,3061
+285,539,Meinander Hanna,Nummela 481,51:09,5,3069
+286,503,Wallin Maaria,Nummela 481,51:10,5,3070
+287,542,Leino Sara,Helsingin Jyry,51:17,5,3077
+288,342,Kulikoff Laura,Helsinki,51:21,5,3081
+289,40,Hepo-Oja Nuppu,HSY / Triathlon Vantaa,51:21,5,3081
+290,352,Hovilehto Tuija,Porvoon urheilijat,51:24,5,3084
+291,209,Vesterinen Anttoni,Helsinki Triathlon,51:25,5,3085
+292,155,Roopärg Marika,KU-58 / Täppsportlased,51:27,5,3087
+293,609,Keskinen Eero,Jyväskylä,51:28,5,3088
+294,289,Nurmi Tiina,Sikakorven Sisu,51:33,5,3093
+295,156,Rosenback Tom,KPK 24/7,51:35,5,3095
+296,734,Möttönen Minna,Vihti,51:52,5,3112
+297,527,Bäckman Susanna,KPK 24/7,51:54,5,3114
+298,635,Koponen Olli,Vantaa,51:58,5,3118
+299,739,Muthugalage Irma,Vantaa,51:58,5,3118
+300,656,Mikkola Nina,,52:09,5,3129
+301,62,Kauppinen Karri-Pekka,Rakkaus ja tiede voittakoon,52:26,5,3146
+302,37,Heliö Miia,,52:32,5,3152
+303,738,Palmu Mika,KU-58,52:53,5,3173
+304,96,Långsjö Camilla,TriathlonSuomi,53:04,5,3184
+305,558,Ignatius Antero,Endurance,53:08,5,3188
+306,597,Alavalkama Satu,Hki triathlon,53:15,5,3195
+307,678,Simons Tiina,Espoo,53:31,5,3211
+308,518,Pansegrau Kaarina,Helsinki,53:31,5,3211
+309,628,Kälviäinen Teemu,Helsinki,53:38,5,3218
+310,276,Huttunen Margit,,53:50,5,3230
+311,292,Palvas Leena,,53:56,5,3236
+312,706,Hirtentreu Merle,Porvoon Urheilijat,54:09,5,3249
+313,11,Davey Phil,CSC,54:10,5,3250
+314,103,Miettinen Jari,CSC,54:10,5,3250
+315,282,Makkonen Minna,Järvenpään pyöräilijät,54:15,5,3255
+316,571,Heinonen Arianne,Kunnon Polte,54:29,5,3269
+317,212,Viljakainen Inca,Länsi-Uudenmaan urheilijat,54:30,5,3270
+318,321,Leskinen Elina,,54:38,5,3278
+319,721,Miettinen Antti,Helsinki,54:51,5,3291
+320,162,Saari Tuula,Sykkeen Kaikuja Hyvinkään sair,54:54,5,3294
+321,266,Andreev Katja,Vantaa,54:56,5,3296
+322,302,Tirkkonen Mari,TriathlonSuomi,55:00,5,3300
+323,647,Ryhänen Sanna,Nummela 481,55:04,5,3304
+324,334,Teileri Taina,Triathlon Suomi,55:12,5,3312
+325,286,Miettinen Tiina,,55:23,5,3323
+326,520,Puustinen Paula,Tonin juoksu,56:15,5,3375
+327,20,Friberg Raisa,,56:23,5,3383
+328,608,Lehtinen Marko,Heltri,56:38,5,3398
+329,81,Köykkä-Lempiäinen Susanna,,57:10,5,3430
+330,517,Westermarck Ulla,Pasin talli,57:21,5,3441
+331,177,Siren Meri,,1:00:23,5,3623
+332,679,Särkkä Auni,Espoon Tapiot,1:00:39,5,3639
+333,296,Roots Anto,ESTri / LeSi,1:04:20,5,3860
+334,112,Mäkinen Olli,,1:05:34,5,3934
+335,68,Kirvesmäki Ari,Kenttäurheilija-58,1:17:14,5,4634
